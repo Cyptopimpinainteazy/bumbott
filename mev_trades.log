@@ -1,0 +1,313 @@
+2025-05-12 04:50:44,451 - MEV_Trader - INFO - Starting MEV Strategy Executor
+2025-05-12 04:50:44,452 - MEV_Trader - INFO - Test Mode: False, Real Quantum: False
+2025-05-12 04:50:44,752 - MEV_Trader - INFO - Connected to arbitrum via Chainstack
+2025-05-12 04:50:44,919 - MEV_Trader - INFO - Connected to polygon via Chainstack
+2025-05-12 04:50:45,102 - MEV_Trader - INFO - Connected to optimism via Chainstack
+2025-05-12 04:50:45,103 - MEV_Trader - WARNING - No Chainstack URL found for bsc. Skipping connection.
+2025-05-12 04:50:45,380 - MEV_Trader - WARNING - Error getting WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:45,603 - MEV_Trader - WARNING - Error getting ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:45,861 - MEV_Trader - WARNING - Error getting USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:46,079 - MEV_Trader - WARNING - Error getting USDT balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:46,296 - MEV_Trader - WARNING - Error getting WBTC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:46,508 - MEV_Trader - WARNING - Error getting GMX balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:46,731 - MEV_Trader - WARNING - Error getting LINK balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:46,944 - MEV_Trader - WARNING - Error getting UNI balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:49,824 - MEV_Trader - WARNING - Error getting WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:50,042 - MEV_Trader - WARNING - Error getting OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:50,259 - MEV_Trader - WARNING - Error getting USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:50,484 - MEV_Trader - WARNING - Error getting DAI balance on optimism: Could not decode contract function call to balanceOf(address) with return data: b'', output_types: ['uint256']
+2025-05-12 04:50:50,699 - MEV_Trader - WARNING - Error getting USDT balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:50,939 - MEV_Trader - WARNING - Error getting WBTC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:51,150 - MEV_Trader - WARNING - Error getting SNX balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:51,151 - MEV_Trader - INFO - Initial wallet balances recorded for 0x7f1d163dBe1d42F9813820996e039E6f81D5f62c
+2025-05-12 04:50:51,419 - MEV_Trader - WARNING - Error getting WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:51,630 - MEV_Trader - WARNING - Error getting ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:51,839 - MEV_Trader - WARNING - Error getting USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:52,047 - MEV_Trader - WARNING - Error getting USDT balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:52,266 - MEV_Trader - WARNING - Error getting WBTC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:52,491 - MEV_Trader - WARNING - Error getting GMX balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:52,708 - MEV_Trader - WARNING - Error getting LINK balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:52,919 - MEV_Trader - WARNING - Error getting UNI balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:55,854 - MEV_Trader - WARNING - Error getting WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:56,082 - MEV_Trader - WARNING - Error getting OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:56,310 - MEV_Trader - WARNING - Error getting USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:56,522 - MEV_Trader - WARNING - Error getting DAI balance on optimism: Could not decode contract function call to balanceOf(address) with return data: b'', output_types: ['uint256']
+2025-05-12 04:50:56,742 - MEV_Trader - WARNING - Error getting USDT balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:56,966 - MEV_Trader - WARNING - Error getting WBTC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:57,190 - MEV_Trader - WARNING - Error getting SNX balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:50:57,191 - MEV_Trader - INFO - Executing sandwich strategy on arbitrum
+2025-05-12 04:50:57,192 - MEV_Trader - INFO - Simulating quantum optimization for momentum circuit
+2025-05-12 04:50:57,298 - MEV_Trader - WARNING - Gas price 57.867866733 gwei exceeds maximum 1.0 gwei for arbitrum
+2025-05-12 04:50:57,298 - MEV_Trader - ERROR - Error in main execution: unsupported operand type(s) for -: 'float' and 'decimal.Decimal'
+2025-05-12 04:51:34,742 - MEV_Trader - INFO - Starting MEV Strategy Executor
+2025-05-12 04:51:34,742 - MEV_Trader - INFO - Test Mode: False, Real Quantum: False
+2025-05-12 04:51:35,044 - MEV_Trader - INFO - Connected to arbitrum via Chainstack
+2025-05-12 04:51:35,205 - MEV_Trader - INFO - Connected to polygon via Chainstack
+2025-05-12 04:51:35,368 - MEV_Trader - INFO - Connected to optimism via Chainstack
+2025-05-12 04:51:35,369 - MEV_Trader - WARNING - No Chainstack URL found for bsc. Skipping connection.
+2025-05-12 04:51:35,649 - MEV_Trader - WARNING - Error getting WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:35,861 - MEV_Trader - WARNING - Error getting ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:36,077 - MEV_Trader - WARNING - Error getting USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:36,285 - MEV_Trader - WARNING - Error getting USDT balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:36,510 - MEV_Trader - WARNING - Error getting WBTC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:36,725 - MEV_Trader - WARNING - Error getting GMX balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:36,941 - MEV_Trader - WARNING - Error getting LINK balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:37,149 - MEV_Trader - WARNING - Error getting UNI balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:40,021 - MEV_Trader - WARNING - Error getting WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:40,233 - MEV_Trader - WARNING - Error getting OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:40,444 - MEV_Trader - WARNING - Error getting USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:40,673 - MEV_Trader - WARNING - Error getting DAI balance on optimism: Could not decode contract function call to balanceOf(address) with return data: b'', output_types: ['uint256']
+2025-05-12 04:51:40,885 - MEV_Trader - WARNING - Error getting USDT balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:41,100 - MEV_Trader - WARNING - Error getting WBTC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:41,325 - MEV_Trader - WARNING - Error getting SNX balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:41,325 - MEV_Trader - INFO - Initial wallet balances recorded for 0x7f1d163dBe1d42F9813820996e039E6f81D5f62c
+2025-05-12 04:51:41,601 - MEV_Trader - WARNING - Error getting WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:41,815 - MEV_Trader - WARNING - Error getting ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:42,036 - MEV_Trader - WARNING - Error getting USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:42,257 - MEV_Trader - WARNING - Error getting USDT balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:42,469 - MEV_Trader - WARNING - Error getting WBTC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:42,681 - MEV_Trader - WARNING - Error getting GMX balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:42,893 - MEV_Trader - WARNING - Error getting LINK balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:43,104 - MEV_Trader - WARNING - Error getting UNI balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:46,020 - MEV_Trader - WARNING - Error getting WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:46,254 - MEV_Trader - WARNING - Error getting OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:46,490 - MEV_Trader - WARNING - Error getting USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:46,721 - MEV_Trader - WARNING - Error getting DAI balance on optimism: Could not decode contract function call to balanceOf(address) with return data: b'', output_types: ['uint256']
+2025-05-12 04:51:46,948 - MEV_Trader - WARNING - Error getting USDT balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:47,181 - MEV_Trader - WARNING - Error getting WBTC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:47,420 - MEV_Trader - WARNING - Error getting SNX balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:51:47,422 - MEV_Trader - INFO - Executing sandwich strategy on arbitrum
+2025-05-12 04:51:47,423 - MEV_Trader - INFO - Simulating quantum optimization for momentum circuit
+2025-05-12 04:51:47,550 - MEV_Trader - WARNING - Gas price 71.555800012 gwei exceeds maximum 1.0 gwei for arbitrum
+2025-05-12 04:51:47,620 - MEV_Trader - ERROR - Error executing sandwich attack on arbitrum: 'SignedTransaction' object has no attribute 'rawTransaction'
+2025-05-12 04:51:47,622 - MEV_Trader - INFO - Executing arbitrage strategy on optimism
+2025-05-12 04:51:47,622 - MEV_Trader - INFO - Simulating quantum optimization for mean_reversion circuit
+2025-05-12 04:51:47,623 - MEV_Trader - ERROR - Error in main execution: 'NoneType' object has no attribute 'items'
+2025-05-12 04:53:58,152 - INFO - Connected to arbitrum
+2025-05-12 04:53:58,331 - INFO - Connected to polygon
+2025-05-12 04:53:58,519 - INFO - Connected to optimism
+2025-05-12 04:53:58,520 - WARNING - No URL found for bsc in .env file
+2025-05-12 04:53:58,838 - WARNING - Error checking WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:53:59,064 - WARNING - Error checking USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:53:59,304 - WARNING - Error checking ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:54:00,575 - WARNING - Error checking WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:54:00,784 - WARNING - Error checking USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:54:00,996 - WARNING - Error checking OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:55:22,468 - INFO - Connected to arbitrum
+2025-05-12 04:55:22,632 - INFO - Connected to polygon
+2025-05-12 04:55:22,804 - INFO - Connected to optimism
+2025-05-12 04:55:22,804 - WARNING - No URL found for bsc in .env file
+2025-05-12 04:55:23,078 - WARNING - Error checking WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:55:23,297 - WARNING - Error checking USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:55:23,509 - WARNING - Error checking ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:55:24,785 - WARNING - Error checking WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:55:24,997 - WARNING - Error checking USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:55:25,209 - WARNING - Error checking OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:55:43,977 - INFO - SIMULATION: Sandwich attack on arbitrum for WETH/USDC
+2025-05-12 04:59:52,699 - INFO - Connected to arbitrum
+2025-05-12 04:59:52,883 - INFO - Connected to polygon
+2025-05-12 04:59:53,048 - INFO - Connected to optimism
+2025-05-12 04:59:53,049 - WARNING - No URL found for bsc in .env file
+2025-05-12 04:59:53,336 - WARNING - Error checking WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:59:53,556 - WARNING - Error checking USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:59:53,775 - WARNING - Error checking ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:59:55,051 - WARNING - Error checking WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:59:55,311 - WARNING - Error checking USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 04:59:55,524 - WARNING - Error checking OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:00:00,108 - INFO - SIMULATION: Sandwich attack on arbitrum for WETH/USDC
+2025-05-12 05:00:14,164 - INFO - SIMULATION: Sandwich attack on polygon for WETH/MATIC
+2025-05-12 05:00:42,603 - INFO - SIMULATION: Arbitrage on optimism with path WETH -> OP -> USDC -> WETH
+2025-05-12 05:00:57,948 - INFO - SIMULATION: Sandwich attack on arbitrum for WETH/USDC
+2025-05-12 05:03:18,623 - INFO - Connected to arbitrum
+2025-05-12 05:03:18,796 - INFO - Connected to polygon
+2025-05-12 05:03:18,971 - INFO - Connected to optimism
+2025-05-12 05:03:18,972 - WARNING - No URL found for bsc in .env file
+2025-05-12 05:03:19,252 - WARNING - Error checking WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:19,488 - WARNING - Error checking USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:19,700 - WARNING - Error checking ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:20,968 - WARNING - Error checking WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:21,180 - WARNING - Error checking USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:21,387 - WARNING - Error checking OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:56,402 - INFO - Connected to arbitrum
+2025-05-12 05:03:56,591 - INFO - Connected to polygon
+2025-05-12 05:03:56,774 - INFO - Connected to optimism
+2025-05-12 05:03:56,775 - WARNING - No URL found for bsc in .env file
+2025-05-12 05:03:57,056 - WARNING - Error checking WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:57,271 - WARNING - Error checking USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:57,494 - WARNING - Error checking ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:58,762 - WARNING - Error checking WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:58,974 - WARNING - Error checking USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:03:59,208 - WARNING - Error checking OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:04:08,734 - ERROR - Error executing sandwich attack on arbitrum: 'SignedTransaction' object has no attribute 'rawTransaction'
+2025-05-12 05:04:17,342 - ERROR - Error executing sandwich attack on polygon: 'SignedTransaction' object has no attribute 'rawTransaction'
+2025-05-12 05:06:38,741 - INFO - Connected to arbitrum
+2025-05-12 05:06:38,909 - INFO - Connected to polygon
+2025-05-12 05:06:39,074 - INFO - Connected to optimism
+2025-05-12 05:06:39,075 - WARNING - No URL found for bsc in .env file
+2025-05-12 05:06:39,365 - WARNING - Error checking WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:39,582 - WARNING - Error checking USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:39,797 - WARNING - Error checking ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:41,060 - WARNING - Error checking WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:41,269 - WARNING - Error checking USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:41,477 - WARNING - Error checking OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:51,416 - INFO - Connected to arbitrum
+2025-05-12 05:06:51,576 - INFO - Connected to polygon
+2025-05-12 05:06:51,732 - INFO - Connected to optimism
+2025-05-12 05:06:51,733 - WARNING - No URL found for bsc in .env file
+2025-05-12 05:06:52,012 - WARNING - Error checking WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:52,232 - WARNING - Error checking USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:52,440 - WARNING - Error checking ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:53,740 - WARNING - Error checking WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:53,960 - WARNING - Error checking USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:54,208 - WARNING - Error checking OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:06:59,910 - INFO - SIMULATION: Sandwich attack on arbitrum for WETH/USDC
+2025-05-12 05:07:08,365 - INFO - SIMULATION: Sandwich attack on polygon for WETH/MATIC
+2025-05-12 05:07:41,963 - INFO - Connected to arbitrum
+2025-05-12 05:07:42,138 - INFO - Connected to polygon
+2025-05-12 05:07:42,326 - INFO - Connected to optimism
+2025-05-12 05:07:42,326 - WARNING - No URL found for bsc in .env file
+2025-05-12 05:07:42,626 - WARNING - Error checking WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:07:42,858 - WARNING - Error checking USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:07:43,086 - WARNING - Error checking ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:07:44,414 - WARNING - Error checking WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:07:44,647 - WARNING - Error checking USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:07:44,878 - WARNING - Error checking OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:08:00,901 - INFO - Connected to arbitrum
+2025-05-12 05:08:01,066 - INFO - Connected to polygon
+2025-05-12 05:08:01,242 - INFO - Connected to optimism
+2025-05-12 05:08:01,242 - WARNING - No URL found for bsc in .env file
+2025-05-12 05:08:01,538 - WARNING - Error checking WETH balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:08:01,766 - WARNING - Error checking USDC balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:08:02,003 - WARNING - Error checking ARB balance on arbitrum: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:08:03,345 - WARNING - Error checking WETH balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:08:03,565 - WARNING - Error checking USDC balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:08:03,789 - WARNING - Error checking OP balance on optimism: Could not transact with/call contract function, is contract deployed correctly and chain synced?
+2025-05-12 05:08:11,194 - ERROR - Sandwich attack failed on polygon
+2025-05-12 05:08:18,077 - ERROR - Error sending transaction: {'code': -32000, 'message': 'invalid sender'}
+2025-05-12 05:08:18,078 - ERROR - Error executing sandwich attack on arbitrum: {'code': -32000, 'message': 'invalid sender'}
+2025-05-12 05:08:23,586 - ERROR - Error sending transaction: {'code': -32000, 'message': 'invalid sender'}
+2025-05-12 05:08:23,587 - ERROR - Error executing sandwich attack on arbitrum: {'code': -32000, 'message': 'invalid sender'}
+2025-05-12 05:08:26,561 - ERROR - Error sending transaction: {'code': -32000, 'message': 'invalid sender'}
+2025-05-12 05:08:26,562 - ERROR - Error executing arbitrage on optimism: {'code': -32000, 'message': 'invalid sender'}
+2025-05-12 05:18:05,092 - ERROR - Error sending transaction: {'code': -32000, 'message': 'invalid sender'}
+2025-05-12 05:18:05,093 - ERROR - Error executing sandwich attack on arbitrum: {'code': -32000, 'message': 'invalid sender'}
+2025-05-12 09:49:00,236 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 09:49:00,237 - MEV_EXECUTOR - INFO - Starting Real MEV Trade Executor
+2025-05-12 09:49:00,237 - MEV_EXECUTOR - INFO - Mode: REAL
+2025-05-12 09:49:00,237 - MEV_EXECUTOR - INFO - Micro Transactions: ENABLED
+2025-05-12 09:49:00,237 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 09:49:00,483 - MEV_EXECUTOR - INFO - Connected to polygon network
+2025-05-12 09:49:00,653 - MEV_EXECUTOR - INFO - Connected to arbitrum network
+2025-05-12 09:49:00,825 - MEV_EXECUTOR - INFO - Connected to optimism network
+2025-05-12 09:49:00,826 - MEV_EXECUTOR - WARNING - No URL configured for bsc network
+2025-05-12 09:49:00,986 - MEV_EXECUTOR - INFO - Connected to networks: polygon, arbitrum, optimism
+2025-05-12 09:49:00,987 - MEV_EXECUTOR - ERROR - Error loading ABIs: Expecting value: line 1 column 1 (char 0)
+2025-05-12 09:49:00,987 - MEV_EXECUTOR - ERROR - Failed to initialize trader: Expecting value: line 1 column 1 (char 0)
+2025-05-12 09:55:52,926 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 09:55:52,926 - MEV_EXECUTOR - INFO - Starting Real MEV Trade Executor
+2025-05-12 09:55:52,927 - MEV_EXECUTOR - INFO - Mode: REAL
+2025-05-12 09:55:52,927 - MEV_EXECUTOR - INFO - Micro Transactions: ENABLED
+2025-05-12 09:55:52,927 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 09:55:53,249 - MEV_EXECUTOR - INFO - Validated connection to polygon
+2025-05-12 09:55:53,485 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on arbitrum
+2025-05-12 09:55:53,725 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on optimism
+2025-05-12 09:55:53,725 - MEV_EXECUTOR - WARNING - Skipping bsc - No URL configured
+2025-05-12 09:55:53,781 - MEV_EXECUTOR - INFO - Connected to networks: polygon
+2025-05-12 09:55:53,781 - MEV_EXECUTOR - INFO - Trader initialized with wallet: 0x7f1d163dBe1d42F9813820996e039E6f81D5f62c
+2025-05-12 09:55:53,842 - MEV_EXECUTOR - INFO - Wallet balance on polygon: 246.467767155528208566 ETH
+2025-05-12 09:55:53,906 - MEV_EXECUTOR - ERROR - flashloan contract on polygon has no code at 0x498ed9B861a93f86eb6D6A5d47336AF43D64bAa3
+2025-05-12 09:55:53,959 - MEV_EXECUTOR - INFO - router contract on polygon verified at 0x3394C093d0F304002deB31cCce124d05DeC94b06
+2025-05-12 09:55:54,014 - MEV_EXECUTOR - INFO - factory contract on polygon verified at 0x9a887fBdb9e1196F4e348B859B5d2090F8d20E52
+2025-05-12 09:55:54,015 - MEV_EXECUTOR - INFO - Looking for trading opportunities on polygon...
+2025-05-12 09:57:12,632 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 09:57:12,632 - MEV_EXECUTOR - INFO - Starting Real MEV Trade Executor
+2025-05-12 09:57:12,632 - MEV_EXECUTOR - INFO - Mode: REAL
+2025-05-12 09:57:12,633 - MEV_EXECUTOR - INFO - Micro Transactions: ENABLED
+2025-05-12 09:57:12,633 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 09:57:13,007 - MEV_EXECUTOR - INFO - Validated connection to polygon
+2025-05-12 09:57:13,243 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on arbitrum
+2025-05-12 09:57:13,470 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on optimism
+2025-05-12 09:57:13,471 - MEV_EXECUTOR - WARNING - Skipping bsc - No URL configured
+2025-05-12 09:57:13,526 - MEV_EXECUTOR - INFO - Connected to networks: polygon
+2025-05-12 09:57:13,526 - MEV_EXECUTOR - INFO - Trader initialized with wallet: 0x7f1d163dBe1d42F9813820996e039E6f81D5f62c
+2025-05-12 09:57:13,583 - MEV_EXECUTOR - INFO - Wallet balance on polygon: 246.467767155528208566 ETH
+2025-05-12 09:57:13,640 - MEV_EXECUTOR - ERROR - flashloan contract on polygon has no code at 0x498ed9B861a93f86eb6D6A5d47336AF43D64bAa3
+2025-05-12 09:57:13,697 - MEV_EXECUTOR - INFO - router contract on polygon verified at 0x3394C093d0F304002deB31cCce124d05DeC94b06
+2025-05-12 09:57:13,756 - MEV_EXECUTOR - INFO - factory contract on polygon verified at 0x9a887fBdb9e1196F4e348B859B5d2090F8d20E52
+2025-05-12 09:57:13,756 - MEV_EXECUTOR - INFO - Looking for trading opportunities on polygon...
+2025-05-12 09:58:58,576 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 09:58:58,577 - MEV_EXECUTOR - INFO - Starting Real MEV Trade Executor
+2025-05-12 09:58:58,577 - MEV_EXECUTOR - INFO - Mode: REAL
+2025-05-12 09:58:58,577 - MEV_EXECUTOR - INFO - Micro Transactions: ENABLED
+2025-05-12 09:58:58,577 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 09:58:58,967 - MEV_EXECUTOR - INFO - Validated connection to polygon
+2025-05-12 09:58:59,187 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on arbitrum
+2025-05-12 09:58:59,419 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on optimism
+2025-05-12 09:58:59,419 - MEV_EXECUTOR - WARNING - Skipping bsc - No URL configured
+2025-05-12 09:58:59,471 - MEV_EXECUTOR - INFO - Connected to networks: polygon
+2025-05-12 09:58:59,472 - MEV_EXECUTOR - INFO - Trader initialized with wallet: 0x7f1d163dBe1d42F9813820996e039E6f81D5f62c
+2025-05-12 09:58:59,528 - MEV_EXECUTOR - INFO - Wallet balance on polygon: 246.467767155528208566 ETH
+2025-05-12 09:58:59,580 - MEV_EXECUTOR - ERROR - flashloan contract on polygon has no code at 0x498ed9B861a93f86eb6D6A5d47336AF43D64bAa3
+2025-05-12 09:58:59,637 - MEV_EXECUTOR - INFO - router contract on polygon verified at 0x3394C093d0F304002deB31cCce124d05DeC94b06
+2025-05-12 09:58:59,693 - MEV_EXECUTOR - INFO - factory contract on polygon verified at 0x9a887fBdb9e1196F4e348B859B5d2090F8d20E52
+2025-05-12 09:58:59,693 - MEV_EXECUTOR - INFO - Looking for trading opportunities on polygon...
+2025-05-12 09:59:07,080 - MEV_EXECUTOR - ERROR - flashloan contract on polygon has no code at 0x498ed9B861a93f86eb6D6A5d47336AF43D64bAa3
+2025-05-12 09:59:07,081 - MEV_EXECUTOR - ERROR - Failed to execute trade on polygon for USDC/WMATIC
+2025-05-12 09:59:07,081 - MEV_EXECUTOR - INFO - Cooling down for 60 seconds...
+2025-05-12 10:00:29,210 - MEV_EXECUTOR - ERROR - flashloan contract on polygon has no code at 0x498ed9B861a93f86eb6D6A5d47336AF43D64bAa3
+2025-05-12 10:00:29,210 - MEV_EXECUTOR - ERROR - Failed to execute trade on polygon for WETH/WMATIC
+2025-05-12 10:00:29,211 - MEV_EXECUTOR - INFO - Cooling down for 60 seconds...
+2025-05-12 10:15:13,453 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 10:15:13,453 - MEV_EXECUTOR - INFO - Starting Real MEV Trade Executor
+2025-05-12 10:15:13,454 - MEV_EXECUTOR - INFO - Mode: REAL
+2025-05-12 10:15:13,454 - MEV_EXECUTOR - INFO - Micro Transactions: ENABLED
+2025-05-12 10:15:13,454 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 10:15:13,807 - MEV_EXECUTOR - INFO - Validated connection to polygon
+2025-05-12 10:15:14,027 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on arbitrum
+2025-05-12 10:15:14,287 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on optimism
+2025-05-12 10:15:14,287 - MEV_EXECUTOR - WARNING - Skipping bsc - No URL configured
+2025-05-12 10:15:14,339 - MEV_EXECUTOR - INFO - Connected to networks: polygon
+2025-05-12 10:15:14,340 - MEV_EXECUTOR - INFO - Trader initialized with wallet: 0x7f1d163dBe1d42F9813820996e039E6f81D5f62c
+2025-05-12 10:15:14,397 - MEV_EXECUTOR - INFO - Wallet balance on polygon: 246.467767155528208566 ETH
+2025-05-12 10:15:14,458 - MEV_EXECUTOR - INFO - flashloan contract on polygon verified at 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+2025-05-12 10:15:14,518 - MEV_EXECUTOR - INFO - router contract on polygon verified at 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
+2025-05-12 10:15:14,577 - MEV_EXECUTOR - INFO - factory contract on polygon verified at 0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32
+2025-05-12 10:15:14,578 - MEV_EXECUTOR - INFO - Looking for trading opportunities on polygon...
+2025-05-12 10:15:30,462 - MEV_EXECUTOR - INFO - flashloan contract on polygon verified at 0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
+2025-05-12 10:15:30,524 - MEV_EXECUTOR - INFO - Wallet balance on polygon: 246.467767155528208566 ETH
+2025-05-12 10:20:04,273 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 10:20:04,274 - MEV_EXECUTOR - INFO - Starting Real MEV Trade Executor
+2025-05-12 10:20:04,274 - MEV_EXECUTOR - INFO - Mode: REAL
+2025-05-12 10:20:04,274 - MEV_EXECUTOR - INFO - Micro Transactions: ENABLED
+2025-05-12 10:20:04,275 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 10:20:04,664 - MEV_EXECUTOR - INFO - Validated connection to polygon
+2025-05-12 10:20:04,900 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on arbitrum
+2025-05-12 10:20:05,132 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on optimism
+2025-05-12 10:20:05,132 - MEV_EXECUTOR - WARNING - Skipping bsc - No URL configured
+2025-05-12 10:20:05,188 - MEV_EXECUTOR - INFO - Connected to networks: polygon
+2025-05-12 10:20:05,189 - MEV_EXECUTOR - INFO - ABIs loaded successfully
+2025-05-12 10:20:05,190 - MEV_EXECUTOR - ERROR - Failed to initialize trader: [Errno 2] No such file or directory: 'abis/router_abi.json'
+2025-05-12 10:55:51,080 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 10:55:51,081 - MEV_EXECUTOR - INFO - Starting Real MEV Trade Executor
+2025-05-12 10:55:51,081 - MEV_EXECUTOR - INFO - Mode: REAL
+2025-05-12 10:55:51,081 - MEV_EXECUTOR - INFO - Micro Transactions: ENABLED
+2025-05-12 10:55:51,082 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 10:55:51,406 - MEV_EXECUTOR - INFO - Validated connection to polygon
+2025-05-12 10:55:51,622 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on arbitrum
+2025-05-12 10:55:51,843 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on optimism
+2025-05-12 10:55:51,843 - MEV_EXECUTOR - WARNING - Skipping bsc - No URL configured
+2025-05-12 10:55:51,896 - MEV_EXECUTOR - INFO - Connected to networks: polygon
+2025-05-12 10:55:51,897 - MEV_EXECUTOR - ERROR - ABI loading failed: Expecting value: line 1 column 1 (char 0)
+2025-05-12 10:55:51,897 - MEV_EXECUTOR - ERROR - Failed to initialize trader: Critical infrastructure failure - ABIs missing
+2025-05-12 10:59:13,181 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 10:59:13,182 - MEV_EXECUTOR - INFO - Starting Real MEV Trade Executor
+2025-05-12 10:59:13,182 - MEV_EXECUTOR - INFO - Mode: REAL
+2025-05-12 10:59:13,182 - MEV_EXECUTOR - INFO - Micro Transactions: ENABLED
+2025-05-12 10:59:13,183 - MEV_EXECUTOR - INFO - ==================================================
+2025-05-12 10:59:13,492 - MEV_EXECUTOR - INFO - Validated connection to polygon
+2025-05-12 10:59:13,732 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on arbitrum
+2025-05-12 10:59:13,960 - MEV_EXECUTOR - ERROR - Network connection failed: Chain ID mismatch on optimism
+2025-05-12 10:59:13,960 - MEV_EXECUTOR - WARNING - Skipping bsc - No URL configured
+2025-05-12 10:59:14,023 - MEV_EXECUTOR - INFO - Connected to networks: polygon
+2025-05-12 10:59:14,024 - MEV_EXECUTOR - ERROR - ABI loading failed: Expecting value: line 1 column 1 (char 0)
+2025-05-12 10:59:14,025 - MEV_EXECUTOR - ERROR - Failed to initialize trader: Critical infrastructure failure - ABIs missing

@@ -1,0 +1,95 @@
+How to Add MCP Server Configuration Automatically
+
+1. Run the provided script to update the MCP settings file automatically:
+   ```
+   node C:/Users/crypt/CascadeProjects/bumbot/update_mcp_settings.ts
+   ```
+
+2. Available options:
+   - `--dry-run`: Simulate changes without modifying the file.
+   - `--interactive`: Confirm changes interactively before applying them.
+   - `--restore`: Restore the settings file from the last backup.
+   - `--verbose`: Log detailed information about each step.
+   - `--help`: Display usage instructions.
+
+3. The script will:
+   - Check if the settings file exists.
+   - Create a timestamped backup before making changes.
+   - Add the "codebase-memory-server", "smart-contract-helper", and "crypto-trading-helper" configurations if they are not already present.
+   - Save the updated settings file.
+
+4. After running the script:
+   - If successful, you will see a confirmation message.
+   - Restart VSCode or the Copilot extension to apply the changes.
+
+5. Features of `smart-contract-helper`:
+   - Generate Solidity smart contract templates.
+   - Automate testing using frameworks like Hardhat or Truffle.
+   - Deploy contracts to testnets or mainnets.
+   - Analyze and optimize gas usage in smart contracts.
+   - Provide security recommendations for common vulnerabilities (e.g., reentrancy, overflow).
+
+6. Features of `crypto-trading-helper`:
+   - Fetch real-time market data from cryptocurrency exchanges.
+   - Implement automated trading strategies (e.g., arbitrage, trend following).
+   - Manage a portfolio of cryptocurrencies.
+   - Perform risk assessments and suggest diversification strategies.
+   - Generate trading signals based on technical indicators (e.g., RSI, MACD).
+   - Real-time price alerts for specific cryptocurrencies.
+   - Analyze historical price data to identify trends and patterns.
+   - Detect bullish and bearish candlestick patterns.
+   - Visualize and analyze order book data.
+   - Automate grid trading strategies for volatile markets.
+   - Execute stop-loss and take-profit orders automatically.
+   - Suggest portfolio diversification strategies based on risk tolerance.
+   - Track portfolio performance over time with detailed analytics.
+   - Automatically rebalance the portfolio to maintain target allocations.
+   - Generate tax reports for cryptocurrency transactions.
+   - Assess the risk of trades based on volatility and market conditions.
+   - Calculate optimal position sizes based on risk tolerance.
+   - Manage leverage levels to minimize liquidation risks.
+   - Backtest trading strategies on historical data to evaluate performance.
+
+7. Troubleshooting:
+   - If the script reports that the settings file is missing, ensure the file exists at:
+     `C:/Users/crypt/AppData/Roaming/Code/User/globalStorage/blackboxapp.blackboxagent/settings/blackbox_mcp_settings.json`
+   - Use the `--restore` option to revert to the last backup if needed.
+   - Use the `--verbose` option to debug issues.
+   - Check the console output for any error messages and follow the suggestions provided.
+
+8. Advanced Usage:
+   - Set a custom settings file path using the `SETTINGS_PATH` environment variable.
+   - Set a custom backup directory using the `BACKUP_DIR` environment variable.
+   - Add multiple servers by modifying the `SERVER_CONFIGS` array in the script.
+
+How to Use the Centralized MCP Server Management Script
+
+1. Run the centralized script to manage all functionalities:
+   ```
+   python C:/Users/crypt/CascadeProjects/bumbot/src/main.py <module> [options]
+   ```
+
+2. Available modules:
+   - `update_mcp_settings`: Manage MCP server configurations.
+   - `smart_contract_helper`: Manage smart contract-related tasks.
+   - `crypto_trading_helper`: Manage cryptocurrency trading tasks.
+
+3. Examples:
+   - Update MCP settings interactively:
+     ```
+     python C:/Users/crypt/CascadeProjects/bumbot/src/main.py update_mcp_settings --interactive
+     ```
+   - Generate a new smart contract:
+     ```
+     python C:/Users/crypt/CascadeProjects/bumbot/src/main.py smart_contract_helper generate MyContract
+     ```
+   - Fetch market data for BTCUSDT:
+     ```
+     python C:/Users/crypt/CascadeProjects/bumbot/src/main.py crypto_trading_helper fetch BTCUSDT
+     ```
+
+4. Troubleshooting:
+   - Ensure all dependencies are installed (Node.js, Python, required libraries).
+   - Use the `--verbose` option for detailed logs.
+
+This completes the centralized MCP server management process.
