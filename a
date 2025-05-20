@@ -1,0 +1,14 @@
+# Download and install AWS CLI
+Invoke-WebRequest "https://awscli.amazonaws.com/AWSCLIV2.msi" -OutFile "$env:TEMP\AWSCLIV2.msi"
+Start-Process msiexec.exe -Wait -ArgumentList "/i `"$env:TEMP\AWSCLIV2.msi`" /quiet"
+$env:Path += ";C:\Program Files\Amazon\AWSCLIV2\bin"# Create user-specific installation directory
+$userCliPath = "$env:USERPROFILE\AWS-CLI"
+New-Item -Path $userCliPath -ItemType Directory -Force
+
+# Download installer
+Invoke-WebRequest "https://awscli.amazonaws.com/AWSCLIV2.msi" -OutFile "$userCliPath\AWSCLIV2.msi"
+
+# Install to user directory
+Start-Process msiexec.exe -Wait -ArgumentList @"
+/i `"$userCliPath\AWSCLIV2.msi`" /quiet INSTALLFOLDER=`"$userCliPath`" ALLUSERS=0
+"@

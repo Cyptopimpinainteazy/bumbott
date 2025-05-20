@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="qrc:///qtwebchannel/qwebchannel.js"></script>
+    <script>
+        window.addEventListener('load', async () => {
+            if (window.ethereum) {
+                try {
+                    const accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+                    new QWebChannel(qt.webChannelTransport, (channel) => {
+                        const bridge = channel.objects.bridge;
+                        bridge.handleAccountsChanged(accounts);
+                    });
+                } catch (error) {
+                    console.error("Connection failed:", error);
+                }
+            } else {
+                alert('Please install MetaMask!');
+            }
+        });
+    </script>
+</head>
+<body>
+    <h1>Connect MetaMask</h1>
+    <p>Please approve the connection in your MetaMask extension.</p>
+</body>
+</html>

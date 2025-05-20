@@ -1,0 +1,267 @@
+2025-05-11 18:22:11,010 - __main__ - ERROR - Application failed to start: 0
+Traceback (most recent call last):
+  File "C:\Users\crypt\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexes\range.py", line 413, in get_loc
+    return self._range.index(new_key)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^
+ValueError: 0 is not in range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 38, in main
+    window = MainWindow()
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 39, in __init__
+    self.setup_ui()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 88, in setup_ui
+    self.trading_chart = TradingChartWidget()
+                         ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\trading_chart.py", line 27, in __init__
+    self.load_sample_data()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\trading_chart.py", line 140, in load_sample_data
+    self.update_chart()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\trading_chart.py", line 212, in update_chart
+    colors = ['#26A69A' if df['close'][i] >= df['open'][i] else '#EF5350' for i in range(len(df))]
+                           ~~~~~~~~~~~^^^
+  File "C:\Users\crypt\AppData\Roaming\Python\Python313\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\crypt\AppData\Roaming\Python\Python313\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "C:\Users\crypt\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexes\range.py", line 415, in get_loc
+    raise KeyError(key) from err
+KeyError: 0
+2025-05-11 18:22:40,026 - __main__ - ERROR - Application failed to start: name 'QApplication' is not defined
+Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 38, in main
+    window = MainWindow()
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 45, in __init__
+    self.apply_stylesheet()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 248, in apply_stylesheet
+    QApplication.setFont(app_font)
+    ^^^^^^^^^^^^
+NameError: name 'QApplication' is not defined
+2025-05-11 18:30:36,629 - __main__ - ERROR - Import Error: cannot import name 'QPolygonF' from 'PyQt6.QtCore' (C:\Users\crypt\AppData\Roaming\Python\Python313\site-packages\PyQt6\QtCore.pyd)
+
+Please make sure all required packages are installed.
+2025-05-11 18:30:36,633 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 7, in <module>
+    from .performance_metrics import PerformanceMetricsWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\performance_metrics.py", line 7, in <module>
+    from PyQt6.QtCore import Qt, QPointF, QPolygonF
+ImportError: cannot import name 'QPolygonF' from 'PyQt6.QtCore' (C:\Users\crypt\AppData\Roaming\Python\Python313\site-packages\PyQt6\QtCore.pyd)
+
+2025-05-11 20:33:47,853 - __main__ - ERROR - Import Error: No module named 'plotly'
+
+Please make sure all required packages are installed.
+2025-05-11 20:33:47,864 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 2, in <module>
+    from .trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\trading_chart.py", line 4, in <module>
+    import plotly.graph_objects as go
+ModuleNotFoundError: No module named 'plotly'
+
+2025-05-11 22:41:41,237 - __main__ - ERROR - Unexpected Error: name 'MetaMaskConnectWidget' is not defined
+2025-05-11 22:41:41,239 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 42, in main
+    window = MainWindow()
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 51, in __init__
+    self.setup_ui()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 78, in setup_ui
+    self.exchange_connection = ExchangeConnectionWidget()
+                               ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 24, in __init__
+    self.init_ui()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 91, in init_ui
+    self.metamask_widget = MetaMaskConnectWidget()
+                           ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'MetaMaskConnectWidget' is not defined
+
+2025-05-11 22:46:06,693 - __main__ - ERROR - Unexpected Error: name 'pyqtSlot' is not defined
+2025-05-11 22:46:06,696 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 5, in <module>
+    from .exchange_connection import ExchangeConnectionWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 9, in <module>
+    from gui.widgets.metamask_connect import MetaMaskConnectWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\metamask_connect.py", line 23, in <module>
+    class MetaMaskConnectWidget(QWidget):
+    ...<32 lines>...
+            self.connect_btn.clicked.connect(self.signer.connect)
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\metamask_connect.py", line 44, in MetaMaskConnectWidget
+    @pyqtSlot(str)
+     ^^^^^^^^
+NameError: name 'pyqtSlot' is not defined
+
+2025-05-11 23:07:50,852 - __main__ - ERROR - Import Error: cannot import name 'WalletConnect' from 'walletconnect' (C:\Users\crypt\CascadeProjects\bumbot\.venv\Lib\site-packages\walletconnect\__init__.py)
+
+Please make sure all required packages are installed.
+2025-05-11 23:07:50,855 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 5, in <module>
+    from .exchange_connection import ExchangeConnectionWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 9, in <module>
+    from gui.widgets.metamask_connect import MetaMaskConnectWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\metamask_connect.py", line 6, in <module>
+    from walletconnect import WalletConnect
+ImportError: cannot import name 'WalletConnect' from 'walletconnect' (C:\Users\crypt\CascadeProjects\bumbot\.venv\Lib\site-packages\walletconnect\__init__.py)
+
+2025-05-11 23:08:38,457 - __main__ - ERROR - Import Error: No module named 'walletconnect_sdk'
+
+Please make sure all required packages are installed.
+2025-05-11 23:08:38,460 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 5, in <module>
+    from .exchange_connection import ExchangeConnectionWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 9, in <module>
+    from gui.widgets.metamask_connect import MetaMaskConnectWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\metamask_connect.py", line 6, in <module>
+    from walletconnect_sdk import WalletConnect
+ModuleNotFoundError: No module named 'walletconnect_sdk'
+
+2025-05-11 23:09:27,069 - __main__ - ERROR - Import Error: No module named 'walletconnect_sdk'
+
+Please make sure all required packages are installed.
+2025-05-11 23:09:27,072 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 5, in <module>
+    from .exchange_connection import ExchangeConnectionWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 9, in <module>
+    from gui.widgets.metamask_connect import MetaMaskConnectWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\metamask_connect.py", line 6, in <module>
+    from walletconnect_sdk import WalletConnect
+ModuleNotFoundError: No module named 'walletconnect_sdk'
+
+2025-05-11 23:10:16,016 - __main__ - ERROR - Import Error: No module named 'web3.walletconnect'
+
+Please make sure all required packages are installed.
+2025-05-11 23:10:16,019 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 5, in <module>
+    from .exchange_connection import ExchangeConnectionWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 9, in <module>
+    from gui.widgets.metamask_connect import MetaMaskConnectWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\metamask_connect.py", line 4, in <module>
+    from web3.walletconnect import WalletConnect
+ModuleNotFoundError: No module named 'web3.walletconnect'
+
+2025-05-11 23:11:06,705 - __main__ - ERROR - Import Error: No module named 'web3.providers.walletconnect'
+
+Please make sure all required packages are installed.
+2025-05-11 23:11:06,708 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 5, in <module>
+    from .exchange_connection import ExchangeConnectionWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 9, in <module>
+    from gui.widgets.metamask_connect import MetaMaskConnectWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\metamask_connect.py", line 4, in <module>
+    from web3.providers.walletconnect import WalletConnectProvider
+ModuleNotFoundError: No module named 'web3.providers.walletconnect'
+
+2025-05-11 23:12:07,637 - __main__ - ERROR - Import Error: No module named 'walletconnect.providers'
+
+Please make sure all required packages are installed.
+2025-05-11 23:12:07,640 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 5, in <module>
+    from .exchange_connection import ExchangeConnectionWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 9, in <module>
+    from gui.widgets.metamask_connect import MetaMaskConnectWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\metamask_connect.py", line 4, in <module>
+    from walletconnect.providers import WalletConnectProvider
+ModuleNotFoundError: No module named 'walletconnect.providers'
+
+2025-05-11 23:15:21,784 - __main__ - ERROR - Import Error: No module named 'walletconnect.providers'
+
+Please make sure all required packages are installed.
+2025-05-11 23:15:21,787 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 5, in <module>
+    from .exchange_connection import ExchangeConnectionWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 9, in <module>
+    from gui.widgets.metamask_connect import MetaMaskConnectWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\metamask_connect.py", line 4, in <module>
+    from walletconnect.providers import WalletConnectProvider
+ModuleNotFoundError: No module named 'walletconnect.providers'
+
+2025-05-11 23:19:42,001 - __main__ - ERROR - Import Error: No module named 'walletconnect.providers'
+
+Please make sure all required packages are installed.
+2025-05-11 23:19:42,004 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 5, in <module>
+    from .exchange_connection import ExchangeConnectionWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\exchange_connection.py", line 9, in <module>
+    from gui.widgets.metamask_connect import MetaMaskConnectWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\metamask_connect.py", line 4, in <module>
+    from walletconnect.providers import WalletConnectProvider
+ModuleNotFoundError: No module named 'walletconnect.providers'
+
+2025-05-11 23:23:21,040 - __main__ - ERROR - Import Error: No module named 'plotly'
+
+Please make sure all required packages are installed.
+2025-05-11 23:23:21,043 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 2, in <module>
+    from .trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\trading_chart.py", line 4, in <module>
+    import plotly.graph_objects as go
+ModuleNotFoundError: No module named 'plotly'
+
+2025-05-12 00:50:59,462 - __main__ - ERROR - Import Error: No module named 'plotly'
+
+Please make sure all required packages are installed.
+2025-05-12 00:50:59,473 - __main__ - ERROR - Traceback (most recent call last):
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\main.py", line 39, in main
+    from gui.main_window import MainWindow
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\main_window.py", line 14, in <module>
+    from gui.widgets.trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\__init__.py", line 2, in <module>
+    from .trading_chart import TradingChartWidget
+  File "C:\Users\crypt\CascadeProjects\bumbot\src\gui\widgets\trading_chart.py", line 4, in <module>
+    import plotly.graph_objects as go
+ModuleNotFoundError: No module named 'plotly'
+

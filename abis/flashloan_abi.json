@@ -1,0 +1,15 @@
+[
+    {
+        "constant":false,
+        "inputs":[
+            {"name":"amountIn","type":"uint256"},
+            {"name":"amountOutMin","type":"uint256"},
+            {"name":"path","type":"address[]"},
+            {"name":"to","type":"address"},
+            {"name":"deadline","type":"uint256"}
+        ],
+        "name":"swapExactTokensForTokens",
+        "outputs":[{"name":"","type":"uint256[]"}],
+        "type":"function"
+    }
+]

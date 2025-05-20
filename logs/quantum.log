@@ -1,0 +1,108 @@
+2025-05-12 03:17:54,723 | INFO | Initializing IBM Quantum service
+2025-05-12 03:18:01,656 | INFO | Selected backend: ibm_brisbane
+2025-05-12 03:18:01,657 | ERROR | Error executing quantum circuit: 1 validation error for OptionsV2
+shots
+  Object has no attribute 'shots' [type=no_such_attribute, input_value=1000, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/no_such_attribute
+2025-05-12 03:18:01,660 | INFO | Connecting to arbitrum using credentials: dis*** / cro***
+2025-05-12 03:18:01,662 | WARNING | Could not add POA middleware to arbitrum connection
+2025-05-12 03:18:01,984 | INFO | Connecting to polygon using credentials: awe*** / doo***
+2025-05-12 03:18:01,985 | WARNING | Could not add POA middleware to polygon connection
+2025-05-12 03:19:18,131 | INFO | Initializing IBM Quantum service
+2025-05-12 03:19:24,599 | INFO | Selected backend: ibm_brisbane
+2025-05-12 03:19:24,600 | WARNING | Error configuring options: 1 validation error for OptionsV2
+execution
+  Object has no attribute 'execution' [type=no_such_attribute, input_value={'shots': 1000}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/no_such_attribute
+2025-05-12 03:19:24,600 | ERROR | Error initializing Sampler: SamplerV2.__init__() got an unexpected keyword argument 'backend'
+2025-05-12 03:19:24,600 | ERROR | Error executing quantum circuit: SamplerV2.__init__() got an unexpected keyword argument 'backend'
+2025-05-12 03:19:24,602 | INFO | Connecting to arbitrum using credentials: dis*** / cro***
+2025-05-12 03:19:24,604 | WARNING | Could not add POA middleware to arbitrum connection
+2025-05-12 03:19:24,934 | INFO | Connecting to polygon using credentials: awe*** / doo***
+2025-05-12 03:19:24,936 | WARNING | Could not add POA middleware to polygon connection
+2025-05-12 03:54:06,550 | INFO | Connecting to arbitrum using credentials: dis*** / cro***
+2025-05-12 03:54:06,552 | WARNING | Could not add POA middleware to arbitrum connection
+2025-05-12 03:54:06,888 | INFO | Connecting to polygon using credentials: awe*** / doo***
+2025-05-12 03:54:06,889 | WARNING | Could not add POA middleware to polygon connection
+2025-05-12 03:54:07,078 | INFO | Connecting to optimism using credentials: dis*** / cro***
+2025-05-12 03:54:07,080 | WARNING | Could not add POA middleware to optimism connection
+2025-05-12 03:54:07,247 | INFO | Connecting to base using credentials: dis*** / cro***
+2025-05-12 03:54:07,248 | WARNING | Could not add POA middleware to base connection
+2025-05-12 03:54:07,443 | INFO | Connecting to zksync using credentials: dis*** / cro***
+2025-05-12 03:54:07,444 | WARNING | Could not add POA middleware to zksync connection
+2025-05-12 03:54:07,631 | INFO | Connecting to linea using credentials: dis*** / cro***
+2025-05-12 03:54:07,632 | WARNING | Could not add POA middleware to linea connection
+2025-05-12 03:54:50,564 | INFO | Connecting to arbitrum using credentials: dis*** / cro***
+2025-05-12 03:54:50,566 | WARNING | Could not add POA middleware to arbitrum connection
+2025-05-12 03:54:50,814 | INFO | Chainstack arbitrum connection: SUCCESS
+2025-05-12 03:54:50,814 | INFO | Connecting to polygon using credentials: awe*** / doo***
+2025-05-12 03:54:50,816 | WARNING | Could not add POA middleware to polygon connection
+2025-05-12 03:54:51,005 | INFO | Chainstack polygon connection: SUCCESS
+2025-05-12 03:54:51,006 | INFO | Connecting to optimism using credentials: dis*** / cro***
+2025-05-12 03:54:51,007 | WARNING | Could not add POA middleware to optimism connection
+2025-05-12 03:54:51,186 | INFO | Chainstack optimism connection: SUCCESS
+2025-05-12 03:54:51,186 | INFO | Connecting to base using credentials: dis*** / cro***
+2025-05-12 03:54:51,187 | WARNING | Could not add POA middleware to base connection
+2025-05-12 03:54:51,369 | INFO | Chainstack base connection: SUCCESS
+2025-05-12 03:54:51,370 | INFO | Connecting to zksync using credentials: dis*** / cro***
+2025-05-12 03:54:51,371 | WARNING | Could not add POA middleware to zksync connection
+2025-05-12 03:54:51,545 | INFO | Chainstack zksync connection: SUCCESS
+2025-05-12 03:54:51,546 | INFO | Connecting to linea using credentials: dis*** / cro***
+2025-05-12 03:54:51,547 | WARNING | Could not add POA middleware to linea connection
+2025-05-12 03:54:51,729 | INFO | Chainstack linea connection: SUCCESS
+2025-05-12 04:03:56,600 | INFO | Connecting to arbitrum using credentials: dis*** / cro***
+2025-05-12 04:03:56,602 | WARNING | Could not add POA middleware to arbitrum connection
+2025-05-12 04:03:56,906 | INFO | Chainstack arbitrum connection: SUCCESS
+2025-05-12 04:03:56,907 | INFO | Connecting to polygon using credentials: awe*** / doo***
+2025-05-12 04:03:56,908 | WARNING | Could not add POA middleware to polygon connection
+2025-05-12 04:03:57,078 | INFO | Chainstack polygon connection: SUCCESS
+2025-05-12 04:03:57,078 | INFO | Connecting to optimism using credentials: dis*** / cro***
+2025-05-12 04:03:57,080 | WARNING | Could not add POA middleware to optimism connection
+2025-05-12 04:03:57,262 | INFO | Chainstack optimism connection: SUCCESS
+2025-05-12 04:03:57,263 | INFO | Connecting to base using credentials: dis*** / cro***
+2025-05-12 04:03:57,265 | WARNING | Could not add POA middleware to base connection
+2025-05-12 04:03:57,442 | INFO | Chainstack base connection: SUCCESS
+2025-05-12 04:03:57,443 | INFO | Connecting to zksync using credentials: dis*** / cro***
+2025-05-12 04:03:57,444 | WARNING | Could not add POA middleware to zksync connection
+2025-05-12 04:03:57,618 | INFO | Chainstack zksync connection: SUCCESS
+2025-05-12 04:03:57,619 | INFO | Connecting to linea using credentials: dis*** / cro***
+2025-05-12 04:03:57,620 | WARNING | Could not add POA middleware to linea connection
+2025-05-12 04:03:57,803 | INFO | Chainstack linea connection: SUCCESS
+2025-05-12 04:03:57,804 | INFO | Created ABI file: uniswap_v3_router.json
+2025-05-12 04:03:57,805 | INFO | Created ABI file: uniswap_v2_router.json
+2025-05-12 04:03:57,807 | INFO | Created ABI file: quickswap_router.json
+2025-05-12 04:03:57,808 | INFO | Created ABI file: erc20.json
+2025-05-12 04:03:57,812 | INFO | Connecting to arbitrum using credentials: dis*** / cro***
+2025-05-12 04:03:57,814 | WARNING | Could not add POA middleware to arbitrum connection
+2025-05-12 04:03:57,986 | INFO | Chainstack arbitrum connection: SUCCESS
+2025-05-12 04:03:57,987 | INFO | Connecting to polygon using credentials: awe*** / doo***
+2025-05-12 04:03:57,988 | WARNING | Could not add POA middleware to polygon connection
+2025-05-12 04:03:58,174 | INFO | Chainstack polygon connection: SUCCESS
+2025-05-12 04:03:58,175 | INFO | Connecting to optimism using credentials: dis*** / cro***
+2025-05-12 04:03:58,176 | WARNING | Could not add POA middleware to optimism connection
+2025-05-12 04:03:58,346 | INFO | Chainstack optimism connection: SUCCESS
+2025-05-12 04:03:58,347 | INFO | Connecting to base using credentials: dis*** / cro***
+2025-05-12 04:03:58,348 | WARNING | Could not add POA middleware to base connection
+2025-05-12 04:03:58,542 | INFO | Chainstack base connection: SUCCESS
+2025-05-12 04:03:58,542 | INFO | Connecting to zksync using credentials: dis*** / cro***
+2025-05-12 04:03:58,544 | WARNING | Could not add POA middleware to zksync connection
+2025-05-12 04:03:58,722 | INFO | Chainstack zksync connection: SUCCESS
+2025-05-12 04:03:58,722 | INFO | Connecting to linea using credentials: dis*** / cro***
+2025-05-12 04:03:58,724 | WARNING | Could not add POA middleware to linea connection
+2025-05-12 04:03:58,926 | INFO | Chainstack linea connection: SUCCESS
+2025-05-12 04:03:58,931 | INFO | MetaMask trader initialized for wallet: 0x7f1d...f62c
+2025-05-12 04:03:58,931 | INFO | Trade Executor initialized
+2025-05-12 04:03:58,932 | INFO | Preparing to execute test trade: 0.01 ETH/USDC on arbitrum
+2025-05-12 04:03:58,932 | INFO | Running quantum optimization for trade parameters...
+2025-05-12 04:03:58,932 | INFO | SIMULATION: Would execute ETH/USDC trade on arbitrum
+2025-05-12 04:03:58,932 | INFO | Quantum-optimized parameters: {
+  "slippage": 0.5,
+  "gas_price_multiplier": 1.2,
+  "execution_deadline": 1747044538,
+  "estimated_profit": 2e-05,
+  "confidence": 0.85,
+  "path": [
+    "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+  ]
+}

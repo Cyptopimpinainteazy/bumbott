@@ -1,0 +1,53 @@
+Codebase Memory MCP Server Usage Guide
+======================================
+
+Overview:
+---------
+This MCP server indexes and remembers your entire codebase located at:
+c:/Users/crypt/CascadeProjects/bumbot
+
+It provides tools and resources to search and retrieve code files efficiently.
+
+How to Use:
+-----------
+
+1. Searching the Codebase:
+   - Use the "search_codebase" tool.
+   - Provide a regex pattern as input.
+   - The server will return a list of files containing matches along with code snippets.
+
+   Example command:
+   {
+     "tool": "search_codebase",
+     "arguments": {
+       "pattern": "functionName"
+     }
+   }
+
+2. Retrieving File Contents:
+   - Access resources using URIs in the format:
+     file://<full_path_to_file>
+   - The server returns the full text content of the requested file.
+
+   Example URI:
+   file://c:/Users/crypt/CascadeProjects/bumbot/src/codebase_memory/snapshot_versioning.py
+
+3. Integration:
+   - You can invoke these tools and resources programmatically via the MCP protocol.
+   - Alternatively, you can ask me to perform searches or retrieve files on your behalf.
+
+Example Queries You Can Ask Me:
+--------------------------------
+- "Search for all occurrences of 'def ' in the codebase."
+- "Show me the contents of 'src/codebase_memory/change_detection.py'."
+- "Find all files mentioning 'snapshot'."
+
+Notes:
+------
+- The server excludes common folders like node_modules, .git, dist, and build.
+- Regex patterns are case-insensitive.
+- Snippets returned are the first 200 characters of the matching file content.
+
+If you want, I can demonstrate a search or file retrieval now.
+
+End of Guide

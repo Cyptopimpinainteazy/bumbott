@@ -1,0 +1,6490 @@
+{
+  "arbitrum": [
+    {
+      "pair": [
+        "USDC",
+        "RDPX"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "RDPX",
+        "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+        "decimals": 18
+      },
+      "liquidity": 71.71,
+      "daily_volume": 489.14,
+      "opportunity_score": 3.64,
+      "updated_at": "2025-05-12T05:00:27.297124"
+    },
+    {
+      "pair": [
+        "ARB",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "liquidity": 50.45,
+      "daily_volume": 491.54,
+      "opportunity_score": 3.59,
+      "updated_at": "2025-05-12T05:00:27.297005"
+    },
+    {
+      "pair": [
+        "ARB",
+        "PENDLE"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "PENDLE",
+        "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "decimals": 18
+      },
+      "liquidity": 37.87,
+      "daily_volume": 484.24,
+      "opportunity_score": 3.5,
+      "updated_at": "2025-05-12T05:00:27.297064"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "STG"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "STG",
+        "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+        "decimals": 18
+      },
+      "liquidity": 16.44,
+      "daily_volume": 493.32,
+      "opportunity_score": 3.5,
+      "updated_at": "2025-05-12T05:00:27.297275"
+    },
+    {
+      "pair": [
+        "USDT",
+        "JONES"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "JONES",
+        "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+        "decimals": 18
+      },
+      "liquidity": 59.69,
+      "daily_volume": 472.36,
+      "opportunity_score": 3.49,
+      "updated_at": "2025-05-12T05:00:27.297183"
+    },
+    {
+      "pair": [
+        "ARB",
+        "RDPX"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "RDPX",
+        "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+        "decimals": 18
+      },
+      "liquidity": 22.74,
+      "daily_volume": 486.0,
+      "opportunity_score": 3.47,
+      "updated_at": "2025-05-12T05:00:27.297054"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "JONES"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "JONES",
+        "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+        "decimals": 18
+      },
+      "liquidity": 84.39,
+      "daily_volume": 457.92,
+      "opportunity_score": 3.46,
+      "updated_at": "2025-05-12T05:00:27.297251"
+    },
+    {
+      "pair": [
+        "USDT",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+        "decimals": 18
+      },
+      "liquidity": 10.58,
+      "daily_volume": 486.1,
+      "opportunity_score": 3.43,
+      "updated_at": "2025-05-12T05:00:27.297168"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "GRAIL"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "GRAIL",
+        "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+        "decimals": 18
+      },
+      "liquidity": 52.72,
+      "daily_volume": 465.82,
+      "opportunity_score": 3.42,
+      "updated_at": "2025-05-12T05:00:27.297265"
+    },
+    {
+      "pair": [
+        "WETH",
+        "DPX"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DPX",
+        "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+        "decimals": 18
+      },
+      "liquidity": 53.15,
+      "daily_volume": 460.31,
+      "opportunity_score": 3.38,
+      "updated_at": "2025-05-12T05:00:27.296981"
+    },
+    {
+      "pair": [
+        "USDT",
+        "MAGIC"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "MAGIC",
+        "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+        "decimals": 18
+      },
+      "liquidity": 99.43,
+      "daily_volume": 440.91,
+      "opportunity_score": 3.38,
+      "updated_at": "2025-05-12T05:00:27.297178"
+    },
+    {
+      "pair": [
+        "USDC",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "liquidity": 86.46,
+      "daily_volume": 432.78,
+      "opportunity_score": 3.29,
+      "updated_at": "2025-05-12T05:00:27.297074"
+    },
+    {
+      "pair": [
+        "USDT",
+        "PENDLE"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "PENDLE",
+        "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "decimals": 18
+      },
+      "liquidity": 86.69,
+      "daily_volume": 421.38,
+      "opportunity_score": 3.21,
+      "updated_at": "2025-05-12T05:00:27.297204"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "MAGIC"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "MAGIC",
+        "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+        "decimals": 18
+      },
+      "liquidity": 57.45,
+      "daily_volume": 397.6,
+      "opportunity_score": 2.96,
+      "updated_at": "2025-05-12T05:00:27.297246"
+    },
+    {
+      "pair": [
+        "USDT",
+        "GMX"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "GMX",
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "decimals": 18
+      },
+      "liquidity": 92.41,
+      "daily_volume": 373.54,
+      "opportunity_score": 2.89,
+      "updated_at": "2025-05-12T05:00:27.297164"
+    },
+    {
+      "pair": [
+        "WETH",
+        "GMX"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "GMX",
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "decimals": 18
+      },
+      "liquidity": 59.66,
+      "daily_volume": 383.03,
+      "opportunity_score": 2.86,
+      "updated_at": "2025-05-12T05:00:27.296956"
+    },
+    {
+      "pair": [
+        "USDT",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "liquidity": 67.06,
+      "daily_volume": 364.16,
+      "opportunity_score": 2.75,
+      "updated_at": "2025-05-12T05:00:27.297144"
+    },
+    {
+      "pair": [
+        "USDC",
+        "PENDLE"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "PENDLE",
+        "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "decimals": 18
+      },
+      "liquidity": 8.55,
+      "daily_volume": 350.74,
+      "opportunity_score": 2.48,
+      "updated_at": "2025-05-12T05:00:27.297134"
+    },
+    {
+      "pair": [
+        "ARB",
+        "STG"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "STG",
+        "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+        "decimals": 18
+      },
+      "liquidity": 84.87,
+      "daily_volume": 306.01,
+      "opportunity_score": 2.4,
+      "updated_at": "2025-05-12T05:00:27.297069"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+        "decimals": 18
+      },
+      "liquidity": 8.11,
+      "daily_volume": 333.43,
+      "opportunity_score": 2.36,
+      "updated_at": "2025-05-12T05:00:27.297236"
+    },
+    {
+      "pair": [
+        "USDC",
+        "DPX"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "DPX",
+        "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+        "decimals": 18
+      },
+      "liquidity": 16.34,
+      "daily_volume": 326.97,
+      "opportunity_score": 2.34,
+      "updated_at": "2025-05-12T05:00:27.297119"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "ARB"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "liquidity": 97.59,
+      "daily_volume": 292.55,
+      "opportunity_score": 2.34,
+      "updated_at": "2025-05-12T05:00:27.297218"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "liquidity": 76.17,
+      "daily_volume": 283.62,
+      "opportunity_score": 2.21,
+      "updated_at": "2025-05-12T05:00:27.297213"
+    },
+    {
+      "pair": [
+        "ARB",
+        "MAGIC"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "MAGIC",
+        "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+        "decimals": 18
+      },
+      "liquidity": 85.42,
+      "daily_volume": 275.66,
+      "opportunity_score": 2.19,
+      "updated_at": "2025-05-12T05:00:27.297040"
+    },
+    {
+      "pair": [
+        "USDC",
+        "STG"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "STG",
+        "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+        "decimals": 18
+      },
+      "liquidity": 29.0,
+      "daily_volume": 294.68,
+      "opportunity_score": 2.15,
+      "updated_at": "2025-05-12T05:00:27.297139"
+    },
+    {
+      "pair": [
+        "USDT",
+        "UNI"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "UNI",
+        "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+        "decimals": 18
+      },
+      "liquidity": 77.35,
+      "daily_volume": 274.05,
+      "opportunity_score": 2.15,
+      "updated_at": "2025-05-12T05:00:27.297173"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "DPX"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "DPX",
+        "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+        "decimals": 18
+      },
+      "liquidity": 38.73,
+      "daily_volume": 287.86,
+      "opportunity_score": 2.13,
+      "updated_at": "2025-05-12T05:00:27.297256"
+    },
+    {
+      "pair": [
+        "ARB",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "liquidity": 87.04,
+      "daily_volume": 245.63,
+      "opportunity_score": 1.98,
+      "updated_at": "2025-05-12T05:00:27.297010"
+    },
+    {
+      "pair": [
+        "USDT",
+        "STG"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "STG",
+        "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+        "decimals": 18
+      },
+      "liquidity": 95.09,
+      "daily_volume": 234.42,
+      "opportunity_score": 1.93,
+      "updated_at": "2025-05-12T05:00:27.297208"
+    },
+    {
+      "pair": [
+        "USDC",
+        "GRAIL"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "GRAIL",
+        "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+        "decimals": 18
+      },
+      "liquidity": 25.59,
+      "daily_volume": 258.86,
+      "opportunity_score": 1.89,
+      "updated_at": "2025-05-12T05:00:27.297129"
+    },
+    {
+      "pair": [
+        "ARB",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "liquidity": 12.23,
+      "daily_volume": 238.99,
+      "opportunity_score": 1.71,
+      "updated_at": "2025-05-12T05:00:27.297015"
+    },
+    {
+      "pair": [
+        "USDC",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "liquidity": 93.96,
+      "daily_volume": 203.49,
+      "opportunity_score": 1.71,
+      "updated_at": "2025-05-12T05:00:27.297084"
+    },
+    {
+      "pair": [
+        "WETH",
+        "MAGIC"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "MAGIC",
+        "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+        "decimals": 18
+      },
+      "liquidity": 76.66,
+      "daily_volume": 201.95,
+      "opportunity_score": 1.64,
+      "updated_at": "2025-05-12T05:00:27.296971"
+    },
+    {
+      "pair": [
+        "USDT",
+        "ARB"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "liquidity": 38.99,
+      "daily_volume": 212.23,
+      "opportunity_score": 1.6,
+      "updated_at": "2025-05-12T05:00:27.297149"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "liquidity": 20.45,
+      "daily_volume": 218.37,
+      "opportunity_score": 1.59,
+      "updated_at": "2025-05-12T05:00:27.297227"
+    },
+    {
+      "pair": [
+        "ARB",
+        "UNI"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "UNI",
+        "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+        "decimals": 18
+      },
+      "liquidity": 2.26,
+      "daily_volume": 223.4,
+      "opportunity_score": 1.57,
+      "updated_at": "2025-05-12T05:00:27.297035"
+    },
+    {
+      "pair": [
+        "WETH",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+        "decimals": 18
+      },
+      "liquidity": 35.77,
+      "daily_volume": 205.01,
+      "opportunity_score": 1.54,
+      "updated_at": "2025-05-12T05:00:27.296961"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "GMX"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "GMX",
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "decimals": 18
+      },
+      "liquidity": 61.9,
+      "daily_volume": 188.9,
+      "opportunity_score": 1.51,
+      "updated_at": "2025-05-12T05:00:27.297232"
+    },
+    {
+      "pair": [
+        "USDC",
+        "ARB"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "liquidity": 45.63,
+      "daily_volume": 187.04,
+      "opportunity_score": 1.45,
+      "updated_at": "2025-05-12T05:00:27.297079"
+    },
+    {
+      "pair": [
+        "ARB",
+        "GMX"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "GMX",
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "decimals": 18
+      },
+      "liquidity": 45.86,
+      "daily_volume": 176.03,
+      "opportunity_score": 1.37,
+      "updated_at": "2025-05-12T05:00:27.297025"
+    },
+    {
+      "pair": [
+        "USDT",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "liquidity": 3.49,
+      "daily_volume": 193.96,
+      "opportunity_score": 1.37,
+      "updated_at": "2025-05-12T05:00:27.297154"
+    },
+    {
+      "pair": [
+        "WETH",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "liquidity": 64.16,
+      "daily_volume": 167.06,
+      "opportunity_score": 1.36,
+      "updated_at": "2025-05-12T05:00:27.296946"
+    },
+    {
+      "pair": [
+        "ARB",
+        "GRAIL"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "GRAIL",
+        "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+        "decimals": 18
+      },
+      "liquidity": 59.27,
+      "daily_volume": 166.45,
+      "opportunity_score": 1.34,
+      "updated_at": "2025-05-12T05:00:27.297059"
+    },
+    {
+      "pair": [
+        "WETH",
+        "STG"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "STG",
+        "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+        "decimals": 18
+      },
+      "liquidity": 79.5,
+      "daily_volume": 145.19,
+      "opportunity_score": 1.25,
+      "updated_at": "2025-05-12T05:00:27.297000"
+    },
+    {
+      "pair": [
+        "USDT",
+        "RDPX"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "RDPX",
+        "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+        "decimals": 18
+      },
+      "liquidity": 91.61,
+      "daily_volume": 136.86,
+      "opportunity_score": 1.23,
+      "updated_at": "2025-05-12T05:00:27.297194"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "PENDLE"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "PENDLE",
+        "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "decimals": 18
+      },
+      "liquidity": 12.31,
+      "daily_volume": 167.03,
+      "opportunity_score": 1.21,
+      "updated_at": "2025-05-12T05:00:27.297270"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "RDPX"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "RDPX",
+        "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+        "decimals": 18
+      },
+      "liquidity": 57.12,
+      "daily_volume": 144.71,
+      "opportunity_score": 1.18,
+      "updated_at": "2025-05-12T05:00:27.297260"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "liquidity": 10.68,
+      "daily_volume": 153.1,
+      "opportunity_score": 1.1,
+      "updated_at": "2025-05-12T05:00:27.297222"
+    },
+    {
+      "pair": [
+        "USDT",
+        "GRAIL"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "GRAIL",
+        "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+        "decimals": 18
+      },
+      "liquidity": 6.33,
+      "daily_volume": 139.83,
+      "opportunity_score": 1.0,
+      "updated_at": "2025-05-12T05:00:27.297199"
+    },
+    {
+      "pair": [
+        "ARB",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "liquidity": 92.55,
+      "daily_volume": 97.59,
+      "opportunity_score": 0.96,
+      "updated_at": "2025-05-12T05:00:27.297020"
+    },
+    {
+      "pair": [
+        "USDC",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "liquidity": 53.1,
+      "daily_volume": 110.68,
+      "opportunity_score": 0.93,
+      "updated_at": "2025-05-12T05:00:27.297089"
+    },
+    {
+      "pair": [
+        "WETH",
+        "JONES"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "JONES",
+        "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+        "decimals": 18
+      },
+      "liquidity": 27.42,
+      "daily_volume": 109.66,
+      "opportunity_score": 0.85,
+      "updated_at": "2025-05-12T05:00:27.296976"
+    },
+    {
+      "pair": [
+        "WETH",
+        "GRAIL"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "GRAIL",
+        "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+        "decimals": 18
+      },
+      "liquidity": 77.13,
+      "daily_volume": 80.71,
+      "opportunity_score": 0.8,
+      "updated_at": "2025-05-12T05:00:27.296990"
+    },
+    {
+      "pair": [
+        "WETH",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "liquidity": 83.62,
+      "daily_volume": 76.17,
+      "opportunity_score": 0.78,
+      "updated_at": "2025-05-12T05:00:27.296951"
+    },
+    {
+      "pair": [
+        "USDT",
+        "DPX"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "DPX",
+        "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+        "decimals": 18
+      },
+      "liquidity": 5.61,
+      "daily_volume": 108.86,
+      "opportunity_score": 0.78,
+      "updated_at": "2025-05-12T05:00:27.297188"
+    },
+    {
+      "pair": [
+        "WETH",
+        "PENDLE"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "PENDLE",
+        "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "decimals": 18
+      },
+      "liquidity": 47.71,
+      "daily_volume": 88.1,
+      "opportunity_score": 0.76,
+      "updated_at": "2025-05-12T05:00:27.296995"
+    },
+    {
+      "pair": [
+        "USDC",
+        "MAGIC"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "MAGIC",
+        "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+        "decimals": 18
+      },
+      "liquidity": 94.88,
+      "daily_volume": 65.14,
+      "opportunity_score": 0.74,
+      "updated_at": "2025-05-12T05:00:27.297109"
+    },
+    {
+      "pair": [
+        "WETH",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "liquidity": 32.78,
+      "daily_volume": 86.46,
+      "opportunity_score": 0.7,
+      "updated_at": "2025-05-12T05:00:27.296941"
+    },
+    {
+      "pair": [
+        "WETH",
+        "ARB"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "liquidity": 91.54,
+      "daily_volume": 50.45,
+      "opportunity_score": 0.63,
+      "updated_at": "2025-05-12T05:00:27.296933"
+    },
+    {
+      "pair": [
+        "ARB",
+        "DPX"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DPX",
+        "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+        "decimals": 18
+      },
+      "liquidity": 14.39,
+      "daily_volume": 74.82,
+      "opportunity_score": 0.57,
+      "updated_at": "2025-05-12T05:00:27.297049"
+    },
+    {
+      "pair": [
+        "USDC",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+        "decimals": 18
+      },
+      "liquidity": 92.98,
+      "daily_volume": 39.31,
+      "opportunity_score": 0.55,
+      "updated_at": "2025-05-12T05:00:27.297099"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "UNI"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "UNI",
+        "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+        "decimals": 18
+      },
+      "liquidity": 41.93,
+      "daily_volume": 54.1,
+      "opportunity_score": 0.5,
+      "updated_at": "2025-05-12T05:00:27.297241"
+    },
+    {
+      "pair": [
+        "USDC",
+        "JONES"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "JONES",
+        "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+        "decimals": 18
+      },
+      "liquidity": 6.54,
+      "daily_volume": 60.31,
+      "opportunity_score": 0.44,
+      "updated_at": "2025-05-12T05:00:27.297114"
+    },
+    {
+      "pair": [
+        "USDC",
+        "UNI"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "UNI",
+        "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+        "decimals": 18
+      },
+      "liquidity": 90.84,
+      "daily_volume": 12.85,
+      "opportunity_score": 0.36,
+      "updated_at": "2025-05-12T05:00:27.297104"
+    },
+    {
+      "pair": [
+        "ARB",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+        "decimals": 18
+      },
+      "liquidity": 8.72,
+      "daily_volume": 44.15,
+      "opportunity_score": 0.34,
+      "updated_at": "2025-05-12T05:00:27.297030"
+    },
+    {
+      "pair": [
+        "USDC",
+        "GMX"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "GMX",
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "decimals": 18
+      },
+      "liquidity": 29.94,
+      "daily_volume": 33.77,
+      "opportunity_score": 0.33,
+      "updated_at": "2025-05-12T05:00:27.297094"
+    },
+    {
+      "pair": [
+        "WETH",
+        "RDPX"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "RDPX",
+        "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+        "decimals": 18
+      },
+      "liquidity": 95.55,
+      "daily_volume": 2.65,
+      "opportunity_score": 0.31,
+      "updated_at": "2025-05-12T05:00:27.296985"
+    },
+    {
+      "pair": [
+        "WETH",
+        "UNI"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "UNI",
+        "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+        "decimals": 18
+      },
+      "liquidity": 28.79,
+      "daily_volume": 23.21,
+      "opportunity_score": 0.25,
+      "updated_at": "2025-05-12T05:00:27.296965"
+    },
+    {
+      "pair": [
+        "ARB",
+        "JONES"
+      ],
+      "token0": {
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "JONES",
+        "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+        "decimals": 18
+      },
+      "liquidity": 79.67,
+      "daily_volume": 1.17,
+      "opportunity_score": 0.25,
+      "updated_at": "2025-05-12T05:00:27.297045"
+    },
+    {
+      "pair": [
+        "USDT",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "decimals": 8
+      },
+      "liquidity": 18.37,
+      "daily_volume": 20.45,
+      "opportunity_score": 0.2,
+      "updated_at": "2025-05-12T05:00:27.297159"
+    }
+  ],
+  "optimism": [
+    {
+      "pair": [
+        "USDT",
+        "THALES"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "THALES",
+        "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+        "decimals": 18
+      },
+      "liquidity": 74.72,
+      "daily_volume": 489.75,
+      "opportunity_score": 3.65,
+      "updated_at": "2025-05-12T05:00:27.297515"
+    },
+    {
+      "pair": [
+        "USDC",
+        "PERP"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "PERP",
+        "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+        "decimals": 18
+      },
+      "liquidity": 96.74,
+      "daily_volume": 473.39,
+      "opportunity_score": 3.6,
+      "updated_at": "2025-05-12T05:00:27.297444"
+    },
+    {
+      "pair": [
+        "OP",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "liquidity": 50.6,
+      "daily_volume": 481.83,
+      "opportunity_score": 3.52,
+      "updated_at": "2025-05-12T05:00:27.297355"
+    },
+    {
+      "pair": [
+        "WETH",
+        "SNX"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SNX",
+        "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+        "decimals": 18
+      },
+      "liquidity": 99.87,
+      "daily_volume": 449.5,
+      "opportunity_score": 3.45,
+      "updated_at": "2025-05-12T05:00:27.297317"
+    },
+    {
+      "pair": [
+        "WETH",
+        "BIFI"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BIFI",
+        "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+        "decimals": 18
+      },
+      "liquidity": 48.39,
+      "daily_volume": 467.02,
+      "opportunity_score": 3.41,
+      "updated_at": "2025-05-12T05:00:27.297345"
+    },
+    {
+      "pair": [
+        "OP",
+        "THALES"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "THALES",
+        "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+        "decimals": 18
+      },
+      "liquidity": 92.04,
+      "daily_volume": 447.65,
+      "opportunity_score": 3.41,
+      "updated_at": "2025-05-12T05:00:27.297392"
+    },
+    {
+      "pair": [
+        "WETH",
+        "OP"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "liquidity": 81.83,
+      "daily_volume": 450.6,
+      "opportunity_score": 3.4,
+      "updated_at": "2025-05-12T05:00:27.297293"
+    },
+    {
+      "pair": [
+        "USDC",
+        "SNX"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "SNX",
+        "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+        "decimals": 18
+      },
+      "liquidity": 55.37,
+      "daily_volume": 459.47,
+      "opportunity_score": 3.38,
+      "updated_at": "2025-05-12T05:00:27.297440"
+    },
+    {
+      "pair": [
+        "USDT",
+        "SNX"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "SNX",
+        "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+        "decimals": 18
+      },
+      "liquidity": 71.51,
+      "daily_volume": 447.57,
+      "opportunity_score": 3.35,
+      "updated_at": "2025-05-12T05:00:27.297501"
+    },
+    {
+      "pair": [
+        "OP",
+        "sUSD"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "sUSD",
+        "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+        "decimals": 18
+      },
+      "liquidity": 2.4,
+      "daily_volume": 472.72,
+      "opportunity_score": 3.32,
+      "updated_at": "2025-05-12T05:00:27.297397"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "liquidity": 69.56,
+      "daily_volume": 431.44,
+      "opportunity_score": 3.23,
+      "updated_at": "2025-05-12T05:00:27.297612"
+    },
+    {
+      "pair": [
+        "DAI",
+        "OP"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "liquidity": 31.19,
+      "daily_volume": 445.71,
+      "opportunity_score": 3.21,
+      "updated_at": "2025-05-12T05:00:27.297543"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "VELO"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "VELO",
+        "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+        "decimals": 18
+      },
+      "liquidity": 65.18,
+      "daily_volume": 430.01,
+      "opportunity_score": 3.21,
+      "updated_at": "2025-05-12T05:00:27.297649"
+    },
+    {
+      "pair": [
+        "USDT",
+        "PERP"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "PERP",
+        "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+        "decimals": 18
+      },
+      "liquidity": 47.83,
+      "daily_volume": 431.01,
+      "opportunity_score": 3.16,
+      "updated_at": "2025-05-12T05:00:27.297505"
+    },
+    {
+      "pair": [
+        "USDT",
+        "sUSD"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "sUSD",
+        "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+        "decimals": 18
+      },
+      "liquidity": 14.04,
+      "daily_volume": 435.3,
+      "opportunity_score": 3.09,
+      "updated_at": "2025-05-12T05:00:27.297519"
+    },
+    {
+      "pair": [
+        "WETH",
+        "VELO"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "VELO",
+        "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+        "decimals": 18
+      },
+      "liquidity": 88.31,
+      "daily_volume": 388.72,
+      "opportunity_score": 2.99,
+      "updated_at": "2025-05-12T05:00:27.297341"
+    },
+    {
+      "pair": [
+        "OP",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "liquidity": 3.31,
+      "daily_volume": 418.7,
+      "opportunity_score": 2.94,
+      "updated_at": "2025-05-12T05:00:27.297360"
+    },
+    {
+      "pair": [
+        "DAI",
+        "THALES"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "THALES",
+        "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+        "decimals": 18
+      },
+      "liquidity": 9.91,
+      "daily_volume": 409.98,
+      "opportunity_score": 2.9,
+      "updated_at": "2025-05-12T05:00:27.297578"
+    },
+    {
+      "pair": [
+        "WETH",
+        "THALES"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "THALES",
+        "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+        "decimals": 18
+      },
+      "liquidity": 36.0,
+      "daily_volume": 395.5,
+      "opportunity_score": 2.88,
+      "updated_at": "2025-05-12T05:00:27.297331"
+    },
+    {
+      "pair": [
+        "WETH",
+        "sUSD"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "sUSD",
+        "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+        "decimals": 18
+      },
+      "liquidity": 74.98,
+      "daily_volume": 376.76,
+      "opportunity_score": 2.86,
+      "updated_at": "2025-05-12T05:00:27.297336"
+    },
+    {
+      "pair": [
+        "WETH",
+        "FRAX"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "FRAX",
+        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+        "decimals": 18
+      },
+      "liquidity": 15.31,
+      "daily_volume": 399.77,
+      "opportunity_score": 2.84,
+      "updated_at": "2025-05-12T05:00:27.297350"
+    },
+    {
+      "pair": [
+        "DAI",
+        "LYRA"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "LYRA",
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "decimals": 18
+      },
+      "liquidity": 83.2,
+      "daily_volume": 368.57,
+      "opportunity_score": 2.83,
+      "updated_at": "2025-05-12T05:00:27.297573"
+    },
+    {
+      "pair": [
+        "USDT",
+        "FRAX"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "FRAX",
+        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+        "decimals": 18
+      },
+      "liquidity": 88.08,
+      "daily_volume": 363.96,
+      "opportunity_score": 2.81,
+      "updated_at": "2025-05-12T05:00:27.297533"
+    },
+    {
+      "pair": [
+        "OP",
+        "BIFI"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BIFI",
+        "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+        "decimals": 18
+      },
+      "liquidity": 2.34,
+      "daily_volume": 396.15,
+      "opportunity_score": 2.78,
+      "updated_at": "2025-05-12T05:00:27.297407"
+    },
+    {
+      "pair": [
+        "USDT",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "liquidity": 53.48,
+      "daily_volume": 372.56,
+      "opportunity_score": 2.77,
+      "updated_at": "2025-05-12T05:00:27.297487"
+    },
+    {
+      "pair": [
+        "USDT",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "liquidity": 13.01,
+      "daily_volume": 388.68,
+      "opportunity_score": 2.76,
+      "updated_at": "2025-05-12T05:00:27.297477"
+    },
+    {
+      "pair": [
+        "DAI",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "liquidity": 21.48,
+      "daily_volume": 376.31,
+      "opportunity_score": 2.7,
+      "updated_at": "2025-05-12T05:00:27.297553"
+    },
+    {
+      "pair": [
+        "USDC",
+        "BIFI"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "BIFI",
+        "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+        "decimals": 18
+      },
+      "liquidity": 35.46,
+      "daily_volume": 367.08,
+      "opportunity_score": 2.68,
+      "updated_at": "2025-05-12T05:00:27.297468"
+    },
+    {
+      "pair": [
+        "USDT",
+        "BIFI"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "BIFI",
+        "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+        "decimals": 18
+      },
+      "liquidity": 9.2,
+      "daily_volume": 368.98,
+      "opportunity_score": 2.61,
+      "updated_at": "2025-05-12T05:00:27.297529"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "BIFI"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "BIFI",
+        "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+        "decimals": 18
+      },
+      "liquidity": 85.74,
+      "daily_volume": 324.52,
+      "opportunity_score": 2.53,
+      "updated_at": "2025-05-12T05:00:27.297654"
+    },
+    {
+      "pair": [
+        "WETH",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "liquidity": 88.68,
+      "daily_volume": 313.01,
+      "opportunity_score": 2.46,
+      "updated_at": "2025-05-12T05:00:27.297303"
+    },
+    {
+      "pair": [
+        "USDC",
+        "VELO"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "VELO",
+        "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+        "decimals": 18
+      },
+      "liquidity": 79.02,
+      "daily_volume": 308.81,
+      "opportunity_score": 2.4,
+      "updated_at": "2025-05-12T05:00:27.297463"
+    },
+    {
+      "pair": [
+        "DAI",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "liquidity": 17.08,
+      "daily_volume": 325.36,
+      "opportunity_score": 2.33,
+      "updated_at": "2025-05-12T05:00:27.297558"
+    },
+    {
+      "pair": [
+        "USDC",
+        "FRAX"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "FRAX",
+        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+        "decimals": 18
+      },
+      "liquidity": 53.79,
+      "daily_volume": 306.15,
+      "opportunity_score": 2.3,
+      "updated_at": "2025-05-12T05:00:27.297472"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "liquidity": 25.36,
+      "daily_volume": 317.08,
+      "opportunity_score": 2.3,
+      "updated_at": "2025-05-12T05:00:27.297621"
+    },
+    {
+      "pair": [
+        "USDT",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "liquidity": 16.62,
+      "daily_volume": 320.63,
+      "opportunity_score": 2.29,
+      "updated_at": "2025-05-12T05:00:27.297496"
+    },
+    {
+      "pair": [
+        "DAI",
+        "VELO"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "VELO",
+        "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+        "decimals": 18
+      },
+      "liquidity": 31.26,
+      "daily_volume": 305.47,
+      "opportunity_score": 2.23,
+      "updated_at": "2025-05-12T05:00:27.297587"
+    },
+    {
+      "pair": [
+        "USDC",
+        "OP"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "liquidity": 18.7,
+      "daily_volume": 303.31,
+      "opportunity_score": 2.18,
+      "updated_at": "2025-05-12T05:00:27.297421"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "THALES"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "THALES",
+        "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+        "decimals": 18
+      },
+      "liquidity": 70.37,
+      "daily_volume": 273.49,
+      "opportunity_score": 2.13,
+      "updated_at": "2025-05-12T05:00:27.297640"
+    },
+    {
+      "pair": [
+        "OP",
+        "FRAX"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "FRAX",
+        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+        "decimals": 18
+      },
+      "liquidity": 7.71,
+      "daily_volume": 296.75,
+      "opportunity_score": 2.1,
+      "updated_at": "2025-05-12T05:00:27.297411"
+    },
+    {
+      "pair": [
+        "OP",
+        "PERP"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "PERP",
+        "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+        "decimals": 18
+      },
+      "liquidity": 5.2,
+      "daily_volume": 296.15,
+      "opportunity_score": 2.09,
+      "updated_at": "2025-05-12T05:00:27.297383"
+    },
+    {
+      "pair": [
+        "USDC",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "liquidity": 72.56,
+      "daily_volume": 253.48,
+      "opportunity_score": 1.99,
+      "updated_at": "2025-05-12T05:00:27.297425"
+    },
+    {
+      "pair": [
+        "OP",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "liquidity": 58.9,
+      "daily_volume": 248.71,
+      "opportunity_score": 1.92,
+      "updated_at": "2025-05-12T05:00:27.297364"
+    },
+    {
+      "pair": [
+        "USDC",
+        "THALES"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "THALES",
+        "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+        "decimals": 18
+      },
+      "liquidity": 24.83,
+      "daily_volume": 256.47,
+      "opportunity_score": 1.87,
+      "updated_at": "2025-05-12T05:00:27.297454"
+    },
+    {
+      "pair": [
+        "OP",
+        "VELO"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "VELO",
+        "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+        "decimals": 18
+      },
+      "liquidity": 36.58,
+      "daily_volume": 228.65,
+      "opportunity_score": 1.71,
+      "updated_at": "2025-05-12T05:00:27.297402"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "SNX"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "SNX",
+        "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+        "decimals": 18
+      },
+      "liquidity": 7.49,
+      "daily_volume": 225.88,
+      "opportunity_score": 1.6,
+      "updated_at": "2025-05-12T05:00:27.297626"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "sUSD"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "sUSD",
+        "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+        "decimals": 18
+      },
+      "liquidity": 35.83,
+      "daily_volume": 212.01,
+      "opportunity_score": 1.59,
+      "updated_at": "2025-05-12T05:00:27.297644"
+    },
+    {
+      "pair": [
+        "OP",
+        "SNX"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SNX",
+        "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+        "decimals": 18
+      },
+      "liquidity": 23.32,
+      "daily_volume": 210.79,
+      "opportunity_score": 1.55,
+      "updated_at": "2025-05-12T05:00:27.297378"
+    },
+    {
+      "pair": [
+        "USDC",
+        "LYRA"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "LYRA",
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "decimals": 18
+      },
+      "liquidity": 44.66,
+      "daily_volume": 198.26,
+      "opportunity_score": 1.52,
+      "updated_at": "2025-05-12T05:00:27.297449"
+    },
+    {
+      "pair": [
+        "WETH",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "liquidity": 1.5,
+      "daily_volume": 214.36,
+      "opportunity_score": 1.51,
+      "updated_at": "2025-05-12T05:00:27.297312"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "liquidity": 14.36,
+      "daily_volume": 201.5,
+      "opportunity_score": 1.45,
+      "updated_at": "2025-05-12T05:00:27.297602"
+    },
+    {
+      "pair": [
+        "WETH",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "liquidity": 43.98,
+      "daily_volume": 184.49,
+      "opportunity_score": 1.42,
+      "updated_at": "2025-05-12T05:00:27.297308"
+    },
+    {
+      "pair": [
+        "DAI",
+        "FRAX"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "FRAX",
+        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+        "decimals": 18
+      },
+      "liquidity": 25.79,
+      "daily_volume": 187.58,
+      "opportunity_score": 1.39,
+      "updated_at": "2025-05-12T05:00:27.297597"
+    },
+    {
+      "pair": [
+        "USDC",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "liquidity": 29.95,
+      "daily_volume": 184.44,
+      "opportunity_score": 1.38,
+      "updated_at": "2025-05-12T05:00:27.297416"
+    },
+    {
+      "pair": [
+        "USDT",
+        "VELO"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "VELO",
+        "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+        "decimals": 18
+      },
+      "liquidity": 51.95,
+      "daily_volume": 167.41,
+      "opportunity_score": 1.33,
+      "updated_at": "2025-05-12T05:00:27.297524"
+    },
+    {
+      "pair": [
+        "DAI",
+        "sUSD"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "sUSD",
+        "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+        "decimals": 18
+      },
+      "liquidity": 86.38,
+      "daily_volume": 150.97,
+      "opportunity_score": 1.32,
+      "updated_at": "2025-05-12T05:00:27.297583"
+    },
+    {
+      "pair": [
+        "USDC",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "liquidity": 31.44,
+      "daily_volume": 169.56,
+      "opportunity_score": 1.28,
+      "updated_at": "2025-05-12T05:00:27.297435"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "OP"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "liquidity": 48.35,
+      "daily_volume": 162.49,
+      "opportunity_score": 1.28,
+      "updated_at": "2025-05-12T05:00:27.297607"
+    },
+    {
+      "pair": [
+        "USDT",
+        "OP"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "liquidity": 48.71,
+      "daily_volume": 158.9,
+      "opportunity_score": 1.26,
+      "updated_at": "2025-05-12T05:00:27.297482"
+    },
+    {
+      "pair": [
+        "DAI",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "liquidity": 84.49,
+      "daily_volume": 143.98,
+      "opportunity_score": 1.26,
+      "updated_at": "2025-05-12T05:00:27.297539"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "FRAX"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "FRAX",
+        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+        "decimals": 18
+      },
+      "liquidity": 13.23,
+      "daily_volume": 173.71,
+      "opportunity_score": 1.26,
+      "updated_at": "2025-05-12T05:00:27.297660"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "LYRA"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "LYRA",
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "decimals": 18
+      },
+      "liquidity": 94.74,
+      "daily_volume": 135.64,
+      "opportunity_score": 1.23,
+      "updated_at": "2025-05-12T05:00:27.297635"
+    },
+    {
+      "pair": [
+        "WETH",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "liquidity": 84.44,
+      "daily_volume": 129.95,
+      "opportunity_score": 1.16,
+      "updated_at": "2025-05-12T05:00:27.297298"
+    },
+    {
+      "pair": [
+        "USDC",
+        "sUSD"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "sUSD",
+        "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+        "decimals": 18
+      },
+      "liquidity": 4.54,
+      "daily_volume": 150.29,
+      "opportunity_score": 1.07,
+      "updated_at": "2025-05-12T05:00:27.297458"
+    },
+    {
+      "pair": [
+        "WETH",
+        "PERP"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "PERP",
+        "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+        "decimals": 18
+      },
+      "liquidity": 12.38,
+      "daily_volume": 146.15,
+      "opportunity_score": 1.06,
+      "updated_at": "2025-05-12T05:00:27.297322"
+    },
+    {
+      "pair": [
+        "DAI",
+        "PERP"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "PERP",
+        "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+        "decimals": 18
+      },
+      "liquidity": 12.66,
+      "daily_volume": 142.84,
+      "opportunity_score": 1.04,
+      "updated_at": "2025-05-12T05:00:27.297568"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "PERP"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "PERP",
+        "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+        "decimals": 18
+      },
+      "liquidity": 6.72,
+      "daily_volume": 136.9,
+      "opportunity_score": 0.98,
+      "updated_at": "2025-05-12T05:00:27.297630"
+    },
+    {
+      "pair": [
+        "USDT",
+        "LYRA"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "LYRA",
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "decimals": 18
+      },
+      "liquidity": 68.55,
+      "daily_volume": 92.93,
+      "opportunity_score": 0.86,
+      "updated_at": "2025-05-12T05:00:27.297510"
+    },
+    {
+      "pair": [
+        "DAI",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "liquidity": 22.42,
+      "daily_volume": 94.51,
+      "opportunity_score": 0.73,
+      "updated_at": "2025-05-12T05:00:27.297548"
+    },
+    {
+      "pair": [
+        "DAI",
+        "BIFI"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BIFI",
+        "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+        "decimals": 18
+      },
+      "liquidity": 59.86,
+      "daily_volume": 60.42,
+      "opportunity_score": 0.6,
+      "updated_at": "2025-05-12T05:00:27.297592"
+    },
+    {
+      "pair": [
+        "OP",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "liquidity": 62.49,
+      "daily_volume": 48.35,
+      "opportunity_score": 0.53,
+      "updated_at": "2025-05-12T05:00:27.297374"
+    },
+    {
+      "pair": [
+        "USDC",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "liquidity": 94.51,
+      "daily_volume": 22.42,
+      "opportunity_score": 0.44,
+      "updated_at": "2025-05-12T05:00:27.297430"
+    },
+    {
+      "pair": [
+        "WETH",
+        "LYRA"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "LYRA",
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "decimals": 18
+      },
+      "liquidity": 42.99,
+      "daily_volume": 37.66,
+      "opportunity_score": 0.39,
+      "updated_at": "2025-05-12T05:00:27.297326"
+    },
+    {
+      "pair": [
+        "USDT",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "liquidity": 76.31,
+      "daily_volume": 21.48,
+      "opportunity_score": 0.38,
+      "updated_at": "2025-05-12T05:00:27.297491"
+    },
+    {
+      "pair": [
+        "OP",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "liquidity": 45.71,
+      "daily_volume": 31.19,
+      "opportunity_score": 0.36,
+      "updated_at": "2025-05-12T05:00:27.297369"
+    },
+    {
+      "pair": [
+        "OP",
+        "LYRA"
+      ],
+      "token0": {
+        "symbol": "OP",
+        "address": "0x4200000000000000000000000000000000000042",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "LYRA",
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "decimals": 18
+      },
+      "liquidity": 47.8,
+      "daily_volume": 31.05,
+      "opportunity_score": 0.36,
+      "updated_at": "2025-05-12T05:00:27.297388"
+    },
+    {
+      "pair": [
+        "DAI",
+        "SNX"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SNX",
+        "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+        "decimals": 18
+      },
+      "liquidity": 73.44,
+      "daily_volume": 15.96,
+      "opportunity_score": 0.33,
+      "updated_at": "2025-05-12T05:00:27.297563"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "decimals": 6
+      },
+      "liquidity": 20.63,
+      "daily_volume": 16.62,
+      "opportunity_score": 0.18,
+      "updated_at": "2025-05-12T05:00:27.297616"
+    }
+  ],
+  "polygon": [
+    {
+      "pair": [
+        "USDT",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "liquidity": 91.24,
+      "daily_volume": 489.35,
+      "opportunity_score": 3.7,
+      "updated_at": "2025-05-12T05:00:27.297966"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+        "decimals": 18
+      },
+      "liquidity": 86.57,
+      "daily_volume": 484.44,
+      "opportunity_score": 3.65,
+      "updated_at": "2025-05-12T05:00:27.297861"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "liquidity": 83.76,
+      "daily_volume": 474.27,
+      "opportunity_score": 3.57,
+      "updated_at": "2025-05-12T05:00:27.297823"
+    },
+    {
+      "pair": [
+        "USDC",
+        "CRV"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "CRV",
+        "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+        "decimals": 18
+      },
+      "liquidity": 67.49,
+      "daily_volume": 476.32,
+      "opportunity_score": 3.54,
+      "updated_at": "2025-05-12T05:00:27.297918"
+    },
+    {
+      "pair": [
+        "DAI",
+        "QUICK"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "QUICK",
+        "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+        "decimals": 18
+      },
+      "liquidity": 89.07,
+      "daily_volume": 466.82,
+      "opportunity_score": 3.53,
+      "updated_at": "2025-05-12T05:00:27.298047"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "liquidity": 26.31,
+      "daily_volume": 488.41,
+      "opportunity_score": 3.5,
+      "updated_at": "2025-05-12T05:00:27.297837"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "liquidity": 31.23,
+      "daily_volume": 473.73,
+      "opportunity_score": 3.41,
+      "updated_at": "2025-05-12T05:00:27.298099"
+    },
+    {
+      "pair": [
+        "USDT",
+        "BAL"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "BAL",
+        "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+        "decimals": 18
+      },
+      "liquidity": 6.54,
+      "daily_volume": 472.34,
+      "opportunity_score": 3.33,
+      "updated_at": "2025-05-12T05:00:27.298009"
+    },
+    {
+      "pair": [
+        "WETH",
+        "SAND"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SAND",
+        "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+        "decimals": 18
+      },
+      "liquidity": 19.32,
+      "daily_volume": 463.55,
+      "opportunity_score": 3.3,
+      "updated_at": "2025-05-12T05:00:27.297735"
+    },
+    {
+      "pair": [
+        "USDT",
+        "GHST"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "GHST",
+        "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+        "decimals": 18
+      },
+      "liquidity": 1.29,
+      "daily_volume": 471.5,
+      "opportunity_score": 3.3,
+      "updated_at": "2025-05-12T05:00:27.297990"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "CRV"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "CRV",
+        "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+        "decimals": 18
+      },
+      "liquidity": 85.26,
+      "daily_volume": 433.61,
+      "opportunity_score": 3.29,
+      "updated_at": "2025-05-12T05:00:27.298118"
+    },
+    {
+      "pair": [
+        "USDT",
+        "WMATIC"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "liquidity": 37.41,
+      "daily_volume": 449.7,
+      "opportunity_score": 3.26,
+      "updated_at": "2025-05-12T05:00:27.297956"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "AAVE"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "AAVE",
+        "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+        "decimals": 18
+      },
+      "liquidity": 82.22,
+      "daily_volume": 428.63,
+      "opportunity_score": 3.25,
+      "updated_at": "2025-05-12T05:00:27.297773"
+    },
+    {
+      "pair": [
+        "WETH",
+        "MATIC"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "liquidity": 62.8,
+      "daily_volume": 434.85,
+      "opportunity_score": 3.23,
+      "updated_at": "2025-05-12T05:00:27.297677"
+    },
+    {
+      "pair": [
+        "DAI",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+        "decimals": 18
+      },
+      "liquidity": 41.46,
+      "daily_volume": 435.77,
+      "opportunity_score": 3.17,
+      "updated_at": "2025-05-12T05:00:27.298061"
+    },
+    {
+      "pair": [
+        "DAI",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "liquidity": 19.56,
+      "daily_volume": 442.77,
+      "opportunity_score": 3.16,
+      "updated_at": "2025-05-12T05:00:27.298014"
+    },
+    {
+      "pair": [
+        "WETH",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "liquidity": 42.77,
+      "daily_volume": 419.56,
+      "opportunity_score": 3.07,
+      "updated_at": "2025-05-12T05:00:27.297697"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "SAND"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "SAND",
+        "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+        "decimals": 18
+      },
+      "liquidity": 1.99,
+      "daily_volume": 437.47,
+      "opportunity_score": 3.07,
+      "updated_at": "2025-05-12T05:00:27.298138"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "SAND"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SAND",
+        "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+        "decimals": 18
+      },
+      "liquidity": 61.82,
+      "daily_volume": 409.31,
+      "opportunity_score": 3.05,
+      "updated_at": "2025-05-12T05:00:27.297870"
+    },
+    {
+      "pair": [
+        "USDT",
+        "MATIC"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "liquidity": 92.93,
+      "daily_volume": 395.79,
+      "opportunity_score": 3.05,
+      "updated_at": "2025-05-12T05:00:27.297952"
+    },
+    {
+      "pair": [
+        "WETH",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "liquidity": 5.29,
+      "daily_volume": 432.41,
+      "opportunity_score": 3.04,
+      "updated_at": "2025-05-12T05:00:27.297687"
+    },
+    {
+      "pair": [
+        "USDT",
+        "SAND"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "SAND",
+        "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+        "decimals": 18
+      },
+      "liquidity": 85.05,
+      "daily_volume": 392.35,
+      "opportunity_score": 3.0,
+      "updated_at": "2025-05-12T05:00:27.298004"
+    },
+    {
+      "pair": [
+        "DAI",
+        "SUSHI"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SUSHI",
+        "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+        "decimals": 18
+      },
+      "liquidity": 19.08,
+      "daily_volume": 419.02,
+      "opportunity_score": 2.99,
+      "updated_at": "2025-05-12T05:00:27.298066"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "BAL"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BAL",
+        "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+        "decimals": 18
+      },
+      "liquidity": 74.79,
+      "daily_volume": 393.56,
+      "opportunity_score": 2.98,
+      "updated_at": "2025-05-12T05:00:27.297808"
+    },
+    {
+      "pair": [
+        "WETH",
+        "SUSHI"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SUSHI",
+        "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+        "decimals": 18
+      },
+      "liquidity": 78.08,
+      "daily_volume": 381.02,
+      "opportunity_score": 2.9,
+      "updated_at": "2025-05-12T05:00:27.297730"
+    },
+    {
+      "pair": [
+        "USDC",
+        "SAND"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "SAND",
+        "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+        "decimals": 18
+      },
+      "liquidity": 92.48,
+      "daily_volume": 373.33,
+      "opportunity_score": 2.89,
+      "updated_at": "2025-05-12T05:00:27.297937"
+    },
+    {
+      "pair": [
+        "USDT",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "liquidity": 31.47,
+      "daily_volume": 396.43,
+      "opportunity_score": 2.87,
+      "updated_at": "2025-05-12T05:00:27.297961"
+    },
+    {
+      "pair": [
+        "USDT",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+        "decimals": 18
+      },
+      "liquidity": 36.68,
+      "daily_volume": 386.43,
+      "opportunity_score": 2.82,
+      "updated_at": "2025-05-12T05:00:27.297995"
+    },
+    {
+      "pair": [
+        "USDC",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+        "decimals": 18
+      },
+      "liquidity": 59.76,
+      "daily_volume": 363.86,
+      "opportunity_score": 2.73,
+      "updated_at": "2025-05-12T05:00:27.297928"
+    },
+    {
+      "pair": [
+        "USDC",
+        "AAVE"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "AAVE",
+        "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+        "decimals": 18
+      },
+      "liquidity": 85.09,
+      "daily_volume": 347.07,
+      "opportunity_score": 2.68,
+      "updated_at": "2025-05-12T05:00:27.297909"
+    },
+    {
+      "pair": [
+        "WETH",
+        "GHST"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "GHST",
+        "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+        "decimals": 18
+      },
+      "liquidity": 36.04,
+      "daily_volume": 366.23,
+      "opportunity_score": 2.67,
+      "updated_at": "2025-05-12T05:00:27.297720"
+    },
+    {
+      "pair": [
+        "DAI",
+        "CRV"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "CRV",
+        "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+        "decimals": 18
+      },
+      "liquidity": 25.51,
+      "daily_volume": 369.97,
+      "opportunity_score": 2.67,
+      "updated_at": "2025-05-12T05:00:27.298052"
+    },
+    {
+      "pair": [
+        "USDC",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "liquidity": 39.98,
+      "daily_volume": 362.58,
+      "opportunity_score": 2.66,
+      "updated_at": "2025-05-12T05:00:27.297904"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "liquidity": 34.85,
+      "daily_volume": 362.8,
+      "opportunity_score": 2.64,
+      "updated_at": "2025-05-12T05:00:27.297744"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "MATIC"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "liquidity": 13.78,
+      "daily_volume": 370.43,
+      "opportunity_score": 2.63,
+      "updated_at": "2025-05-12T05:00:27.298085"
+    },
+    {
+      "pair": [
+        "USDC",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "liquidity": 96.43,
+      "daily_volume": 331.47,
+      "opportunity_score": 2.61,
+      "updated_at": "2025-05-12T05:00:27.297895"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "SUSHI"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SUSHI",
+        "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+        "decimals": 18
+      },
+      "liquidity": 18.96,
+      "daily_volume": 360.49,
+      "opportunity_score": 2.58,
+      "updated_at": "2025-05-12T05:00:27.297798"
+    },
+    {
+      "pair": [
+        "WETH",
+        "CRV"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "CRV",
+        "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+        "decimals": 18
+      },
+      "liquidity": 30.24,
+      "daily_volume": 354.1,
+      "opportunity_score": 2.57,
+      "updated_at": "2025-05-12T05:00:27.297716"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "WMATIC"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "liquidity": 88.41,
+      "daily_volume": 326.31,
+      "opportunity_score": 2.55,
+      "updated_at": "2025-05-12T05:00:27.298090"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "AAVE"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "AAVE",
+        "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+        "decimals": 18
+      },
+      "liquidity": 27.86,
+      "daily_volume": 340.01,
+      "opportunity_score": 2.46,
+      "updated_at": "2025-05-12T05:00:27.297842"
+    },
+    {
+      "pair": [
+        "USDC",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "liquidity": 79.84,
+      "daily_volume": 300.04,
+      "opportunity_score": 2.34,
+      "updated_at": "2025-05-12T05:00:27.297899"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "BAL"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "BAL",
+        "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+        "decimals": 18
+      },
+      "liquidity": 83.52,
+      "daily_volume": 296.31,
+      "opportunity_score": 2.32,
+      "updated_at": "2025-05-12T05:00:27.298142"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "QUICK"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "QUICK",
+        "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+        "decimals": 18
+      },
+      "liquidity": 88.06,
+      "daily_volume": 292.26,
+      "opportunity_score": 2.31,
+      "updated_at": "2025-05-12T05:00:27.297778"
+    },
+    {
+      "pair": [
+        "DAI",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "liquidity": 89.35,
+      "daily_volume": 291.24,
+      "opportunity_score": 2.31,
+      "updated_at": "2025-05-12T05:00:27.298033"
+    },
+    {
+      "pair": [
+        "WETH",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+        "decimals": 18
+      },
+      "liquidity": 80.28,
+      "daily_volume": 281.67,
+      "opportunity_score": 2.21,
+      "updated_at": "2025-05-12T05:00:27.297725"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "QUICK"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "QUICK",
+        "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+        "decimals": 18
+      },
+      "liquidity": 53.46,
+      "daily_volume": 279.48,
+      "opportunity_score": 2.12,
+      "updated_at": "2025-05-12T05:00:27.297847"
+    },
+    {
+      "pair": [
+        "WETH",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "liquidity": 46.81,
+      "daily_volume": 278.84,
+      "opportunity_score": 2.09,
+      "updated_at": "2025-05-12T05:00:27.297692"
+    },
+    {
+      "pair": [
+        "DAI",
+        "SAND"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SAND",
+        "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+        "decimals": 18
+      },
+      "liquidity": 47.66,
+      "daily_volume": 273.4,
+      "opportunity_score": 2.06,
+      "updated_at": "2025-05-12T05:00:27.298071"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "liquidity": 47.48,
+      "daily_volume": 271.4,
+      "opportunity_score": 2.04,
+      "updated_at": "2025-05-12T05:00:27.298081"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+        "decimals": 18
+      },
+      "liquidity": 77.53,
+      "daily_volume": 252.65,
+      "opportunity_score": 2.0,
+      "updated_at": "2025-05-12T05:00:27.297793"
+    },
+    {
+      "pair": [
+        "USDC",
+        "QUICK"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "QUICK",
+        "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+        "decimals": 18
+      },
+      "liquidity": 68.42,
+      "daily_volume": 256.62,
+      "opportunity_score": 2.0,
+      "updated_at": "2025-05-12T05:00:27.297914"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "GHST"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "GHST",
+        "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+        "decimals": 18
+      },
+      "liquidity": 90.16,
+      "daily_volume": 243.14,
+      "opportunity_score": 1.97,
+      "updated_at": "2025-05-12T05:00:27.297856"
+    },
+    {
+      "pair": [
+        "USDC",
+        "GHST"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "GHST",
+        "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+        "decimals": 18
+      },
+      "liquidity": 57.6,
+      "daily_volume": 251.5,
+      "opportunity_score": 1.93,
+      "updated_at": "2025-05-12T05:00:27.297923"
+    },
+    {
+      "pair": [
+        "USDT",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "liquidity": 73.73,
+      "daily_volume": 231.23,
+      "opportunity_score": 1.84,
+      "updated_at": "2025-05-12T05:00:27.297971"
+    },
+    {
+      "pair": [
+        "WETH",
+        "WMATIC"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "liquidity": 1.1,
+      "daily_volume": 254.39,
+      "opportunity_score": 1.78,
+      "updated_at": "2025-05-12T05:00:27.297682"
+    },
+    {
+      "pair": [
+        "DAI",
+        "WMATIC"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "liquidity": 85.92,
+      "daily_volume": 217.72,
+      "opportunity_score": 1.78,
+      "updated_at": "2025-05-12T05:00:27.298023"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "GHST"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "GHST",
+        "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+        "decimals": 18
+      },
+      "liquidity": 88.47,
+      "daily_volume": 215.1,
+      "opportunity_score": 1.77,
+      "updated_at": "2025-05-12T05:00:27.297789"
+    },
+    {
+      "pair": [
+        "USDT",
+        "QUICK"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "QUICK",
+        "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+        "decimals": 18
+      },
+      "liquidity": 61.98,
+      "daily_volume": 222.84,
+      "opportunity_score": 1.75,
+      "updated_at": "2025-05-12T05:00:27.297980"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "liquidity": 70.43,
+      "daily_volume": 213.78,
+      "opportunity_score": 1.71,
+      "updated_at": "2025-05-12T05:00:27.297768"
+    },
+    {
+      "pair": [
+        "USDT",
+        "CRV"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "CRV",
+        "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+        "decimals": 18
+      },
+      "liquidity": 17.13,
+      "daily_volume": 236.49,
+      "opportunity_score": 1.71,
+      "updated_at": "2025-05-12T05:00:27.297985"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "WMATIC"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "liquidity": 56.51,
+      "daily_volume": 211.95,
+      "opportunity_score": 1.65,
+      "updated_at": "2025-05-12T05:00:27.297749"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "CRV"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "CRV",
+        "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+        "decimals": 18
+      },
+      "liquidity": 93.04,
+      "daily_volume": 194.41,
+      "opportunity_score": 1.64,
+      "updated_at": "2025-05-12T05:00:27.297851"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "BAL"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BAL",
+        "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+        "decimals": 18
+      },
+      "liquidity": 23.41,
+      "daily_volume": 224.5,
+      "opportunity_score": 1.64,
+      "updated_at": "2025-05-12T05:00:27.297875"
+    },
+    {
+      "pair": [
+        "WETH",
+        "BAL"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BAL",
+        "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+        "decimals": 18
+      },
+      "liquidity": 99.76,
+      "daily_volume": 183.41,
+      "opportunity_score": 1.58,
+      "updated_at": "2025-05-12T05:00:27.297740"
+    },
+    {
+      "pair": [
+        "USDC",
+        "WMATIC"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "liquidity": 74.27,
+      "daily_volume": 183.76,
+      "opportunity_score": 1.51,
+      "updated_at": "2025-05-12T05:00:27.297890"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "GHST"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "GHST",
+        "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+        "decimals": 18
+      },
+      "liquidity": 84.01,
+      "daily_volume": 168.73,
+      "opportunity_score": 1.43,
+      "updated_at": "2025-05-12T05:00:27.298123"
+    },
+    {
+      "pair": [
+        "DAI",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "liquidity": 0.04,
+      "daily_volume": 179.84,
+      "opportunity_score": 1.26,
+      "updated_at": "2025-05-12T05:00:27.298028"
+    },
+    {
+      "pair": [
+        "WETH",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "liquidity": 71.4,
+      "daily_volume": 147.48,
+      "opportunity_score": 1.25,
+      "updated_at": "2025-05-12T05:00:27.297701"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "liquidity": 62.58,
+      "daily_volume": 139.98,
+      "opportunity_score": 1.17,
+      "updated_at": "2025-05-12T05:00:27.298095"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "MATIC"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "liquidity": 11.95,
+      "daily_volume": 156.51,
+      "opportunity_score": 1.13,
+      "updated_at": "2025-05-12T05:00:27.297818"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "liquidity": 49.7,
+      "daily_volume": 137.41,
+      "opportunity_score": 1.11,
+      "updated_at": "2025-05-12T05:00:27.297827"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "QUICK"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "QUICK",
+        "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+        "decimals": 18
+      },
+      "liquidity": 99.22,
+      "daily_volume": 112.17,
+      "opportunity_score": 1.08,
+      "updated_at": "2025-05-12T05:00:27.298114"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "LINK"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "LINK",
+        "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+        "decimals": 18
+      },
+      "liquidity": 41.5,
+      "daily_volume": 129.37,
+      "opportunity_score": 1.03,
+      "updated_at": "2025-05-12T05:00:27.298128"
+    },
+    {
+      "pair": [
+        "USDC",
+        "MATIC"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "liquidity": 62.65,
+      "daily_volume": 116.63,
+      "opportunity_score": 1.0,
+      "updated_at": "2025-05-12T05:00:27.297885"
+    },
+    {
+      "pair": [
+        "USDT",
+        "SUSHI"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "SUSHI",
+        "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+        "decimals": 18
+      },
+      "liquidity": 91.12,
+      "daily_volume": 96.45,
+      "opportunity_score": 0.95,
+      "updated_at": "2025-05-12T05:00:27.297999"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "liquidity": 95.79,
+      "daily_volume": 92.93,
+      "opportunity_score": 0.94,
+      "updated_at": "2025-05-12T05:00:27.297759"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "liquidity": 72.1,
+      "daily_volume": 99.97,
+      "opportunity_score": 0.92,
+      "updated_at": "2025-05-12T05:00:27.298104"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "SUSHI"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SUSHI",
+        "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+        "decimals": 18
+      },
+      "liquidity": 79.23,
+      "daily_volume": 93.9,
+      "opportunity_score": 0.89,
+      "updated_at": "2025-05-12T05:00:27.297865"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "liquidity": 54.39,
+      "daily_volume": 101.1,
+      "opportunity_score": 0.87,
+      "updated_at": "2025-05-12T05:00:27.297813"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "liquidity": 73.2,
+      "daily_volume": 84.53,
+      "opportunity_score": 0.81,
+      "updated_at": "2025-05-12T05:00:27.297764"
+    },
+    {
+      "pair": [
+        "DAI",
+        "WBTC"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "liquidity": 99.97,
+      "daily_volume": 72.1,
+      "opportunity_score": 0.8,
+      "updated_at": "2025-05-12T05:00:27.298037"
+    },
+    {
+      "pair": [
+        "WETH",
+        "QUICK"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "QUICK",
+        "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+        "decimals": 18
+      },
+      "liquidity": 39.94,
+      "daily_volume": 96.1,
+      "opportunity_score": 0.79,
+      "updated_at": "2025-05-12T05:00:27.297711"
+    },
+    {
+      "pair": [
+        "DAI",
+        "MATIC"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "liquidity": 84.53,
+      "daily_volume": 73.2,
+      "opportunity_score": 0.77,
+      "updated_at": "2025-05-12T05:00:27.298018"
+    },
+    {
+      "pair": [
+        "WMATIC",
+        "DAI"
+      ],
+      "token0": {
+        "symbol": "WMATIC",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "liquidity": 17.72,
+      "daily_volume": 85.92,
+      "opportunity_score": 0.65,
+      "updated_at": "2025-05-12T05:00:27.297832"
+    },
+    {
+      "pair": [
+        "DAI",
+        "BAL"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BAL",
+        "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+        "decimals": 18
+      },
+      "liquidity": 1.72,
+      "daily_volume": 87.13,
+      "opportunity_score": 0.62,
+      "updated_at": "2025-05-12T05:00:27.298076"
+    },
+    {
+      "pair": [
+        "WETH",
+        "AAVE"
+      ],
+      "token0": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "AAVE",
+        "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+        "decimals": 18
+      },
+      "liquidity": 34.86,
+      "daily_volume": 65.43,
+      "opportunity_score": 0.56,
+      "updated_at": "2025-05-12T05:00:27.297706"
+    },
+    {
+      "pair": [
+        "USDT",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "liquidity": 78.84,
+      "daily_volume": 46.81,
+      "opportunity_score": 0.56,
+      "updated_at": "2025-05-12T05:00:27.297947"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "liquidity": 16.63,
+      "daily_volume": 62.65,
+      "opportunity_score": 0.49,
+      "updated_at": "2025-05-12T05:00:27.297754"
+    },
+    {
+      "pair": [
+        "USDC",
+        "BAL"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "BAL",
+        "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+        "decimals": 18
+      },
+      "liquidity": 92.97,
+      "daily_volume": 29.3,
+      "opportunity_score": 0.48,
+      "updated_at": "2025-05-12T05:00:27.297942"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "AAVE"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "AAVE",
+        "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+        "decimals": 18
+      },
+      "liquidity": 54.01,
+      "daily_volume": 33.97,
+      "opportunity_score": 0.4,
+      "updated_at": "2025-05-12T05:00:27.298109"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "CRV"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "CRV",
+        "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+        "decimals": 18
+      },
+      "liquidity": 66.42,
+      "daily_volume": 22.22,
+      "opportunity_score": 0.35,
+      "updated_at": "2025-05-12T05:00:27.297784"
+    },
+    {
+      "pair": [
+        "WBTC",
+        "SUSHI"
+      ],
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8
+      },
+      "token1": {
+        "symbol": "SUSHI",
+        "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+        "decimals": 18
+      },
+      "liquidity": 94.36,
+      "daily_volume": 8.84,
+      "opportunity_score": 0.34,
+      "updated_at": "2025-05-12T05:00:27.298133"
+    },
+    {
+      "pair": [
+        "DAI",
+        "AAVE"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "AAVE",
+        "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+        "decimals": 18
+      },
+      "liquidity": 5.61,
+      "daily_volume": 41.89,
+      "opportunity_score": 0.31,
+      "updated_at": "2025-05-12T05:00:27.298042"
+    },
+    {
+      "pair": [
+        "MATIC",
+        "SAND"
+      ],
+      "token0": {
+        "symbol": "MATIC",
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "SAND",
+        "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+        "decimals": 18
+      },
+      "liquidity": 16.63,
+      "daily_volume": 34.65,
+      "opportunity_score": 0.29,
+      "updated_at": "2025-05-12T05:00:27.297803"
+    },
+    {
+      "pair": [
+        "USDC",
+        "SUSHI"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "SUSHI",
+        "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+        "decimals": 18
+      },
+      "liquidity": 2.74,
+      "daily_volume": 29.69,
+      "opportunity_score": 0.22,
+      "updated_at": "2025-05-12T05:00:27.297933"
+    },
+    {
+      "pair": [
+        "DAI",
+        "GHST"
+      ],
+      "token0": {
+        "symbol": "DAI",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "GHST",
+        "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+        "decimals": 18
+      },
+      "liquidity": 0.99,
+      "daily_volume": 22.92,
+      "opportunity_score": 0.16,
+      "updated_at": "2025-05-12T05:00:27.298057"
+    },
+    {
+      "pair": [
+        "USDT",
+        "AAVE"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "AAVE",
+        "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+        "decimals": 18
+      },
+      "liquidity": 32.41,
+      "daily_volume": 6.42,
+      "opportunity_score": 0.14,
+      "updated_at": "2025-05-12T05:00:27.297975"
+    },
+    {
+      "pair": [
+        "USDC",
+        "WETH"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18
+      },
+      "liquidity": 32.41,
+      "daily_volume": 5.29,
+      "opportunity_score": 0.13,
+      "updated_at": "2025-05-12T05:00:27.297880"
+    }
+  ],
+  "bsc": [
+    {
+      "pair": [
+        "WBNB",
+        "BUSD"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "liquidity": 92.44,
+      "daily_volume": 499.81,
+      "opportunity_score": 3.78,
+      "updated_at": "2025-05-12T05:00:27.298163"
+    },
+    {
+      "pair": [
+        "USDT",
+        "AUTO"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "AUTO",
+        "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+        "decimals": 18
+      },
+      "liquidity": 85.18,
+      "daily_volume": 490.79,
+      "opportunity_score": 3.69,
+      "updated_at": "2025-05-12T05:00:27.298342"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "CAKE"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "CAKE",
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "decimals": 18
+      },
+      "liquidity": 64.28,
+      "daily_volume": 486.11,
+      "opportunity_score": 3.6,
+      "updated_at": "2025-05-12T05:00:27.298433"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "DOT"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DOT",
+        "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+        "decimals": 18
+      },
+      "liquidity": 57.33,
+      "daily_volume": 474.5,
+      "opportunity_score": 3.49,
+      "updated_at": "2025-05-12T05:00:27.298201"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "CAKE"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "CAKE",
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "decimals": 18
+      },
+      "liquidity": 65.33,
+      "daily_volume": 469.78,
+      "opportunity_score": 3.48,
+      "updated_at": "2025-05-12T05:00:27.298186"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "CAKE"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "CAKE",
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "decimals": 18
+      },
+      "liquidity": 47.27,
+      "daily_volume": 476.41,
+      "opportunity_score": 3.48,
+      "updated_at": "2025-05-12T05:00:27.298249"
+    },
+    {
+      "pair": [
+        "USDC",
+        "ADA"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ADA",
+        "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+        "decimals": 18
+      },
+      "liquidity": 44.68,
+      "daily_volume": 476.17,
+      "opportunity_score": 3.47,
+      "updated_at": "2025-05-12T05:00:27.298380"
+    },
+    {
+      "pair": [
+        "ETH",
+        "XVS"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XVS",
+        "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+        "decimals": 18
+      },
+      "liquidity": 50.69,
+      "daily_volume": 467.2,
+      "opportunity_score": 3.42,
+      "updated_at": "2025-05-12T05:00:27.298499"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "WBNB"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "liquidity": 52.4,
+      "daily_volume": 456.92,
+      "opportunity_score": 3.36,
+      "updated_at": "2025-05-12T05:00:27.298409"
+    },
+    {
+      "pair": [
+        "ETH",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "liquidity": 65.91,
+      "daily_volume": 451.54,
+      "opportunity_score": 3.36,
+      "updated_at": "2025-05-12T05:00:27.298481"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "XVS"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XVS",
+        "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+        "decimals": 18
+      },
+      "liquidity": 48.48,
+      "daily_volume": 448.81,
+      "opportunity_score": 3.29,
+      "updated_at": "2025-05-12T05:00:27.298437"
+    },
+    {
+      "pair": [
+        "USDT",
+        "XRP"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XRP",
+        "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+        "decimals": 18
+      },
+      "liquidity": 49.09,
+      "daily_volume": 436.55,
+      "opportunity_score": 3.2,
+      "updated_at": "2025-05-12T05:00:27.298329"
+    },
+    {
+      "pair": [
+        "USDT",
+        "BTCB"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "liquidity": 38.88,
+      "daily_volume": 429.36,
+      "opportunity_score": 3.12,
+      "updated_at": "2025-05-12T05:00:27.298300"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "XRP"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XRP",
+        "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+        "decimals": 18
+      },
+      "liquidity": 15.83,
+      "daily_volume": 436.48,
+      "opportunity_score": 3.1,
+      "updated_at": "2025-05-12T05:00:27.298267"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "DOT"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DOT",
+        "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+        "decimals": 18
+      },
+      "liquidity": 81.75,
+      "daily_volume": 403.71,
+      "opportunity_score": 3.07,
+      "updated_at": "2025-05-12T05:00:27.298447"
+    },
+    {
+      "pair": [
+        "USDT",
+        "BUSD"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "liquidity": 21.37,
+      "daily_volume": 426.91,
+      "opportunity_score": 3.05,
+      "updated_at": "2025-05-12T05:00:27.298291"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "BTCB"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "liquidity": 64.41,
+      "daily_volume": 406.86,
+      "opportunity_score": 3.04,
+      "updated_at": "2025-05-12T05:00:27.298239"
+    },
+    {
+      "pair": [
+        "USDC",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "liquidity": 22.92,
+      "daily_volume": 421.11,
+      "opportunity_score": 3.02,
+      "updated_at": "2025-05-12T05:00:27.298357"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "ADA"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ADA",
+        "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+        "decimals": 18
+      },
+      "liquidity": 31.7,
+      "daily_volume": 408.96,
+      "opportunity_score": 2.96,
+      "updated_at": "2025-05-12T05:00:27.298443"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "TRX"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "TRX",
+        "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+        "decimals": 18
+      },
+      "liquidity": 4.34,
+      "daily_volume": 416.58,
+      "opportunity_score": 2.93,
+      "updated_at": "2025-05-12T05:00:27.298272"
+    },
+    {
+      "pair": [
+        "USDC",
+        "BUSD"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "liquidity": 58.79,
+      "daily_volume": 390.7,
+      "opportunity_score": 2.91,
+      "updated_at": "2025-05-12T05:00:27.298352"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "BAKE"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BAKE",
+        "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+        "decimals": 18
+      },
+      "liquidity": 62.41,
+      "daily_volume": 386.92,
+      "opportunity_score": 2.9,
+      "updated_at": "2025-05-12T05:00:27.298277"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "DOT"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DOT",
+        "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+        "decimals": 18
+      },
+      "liquidity": 18.99,
+      "daily_volume": 400.3,
+      "opportunity_score": 2.86,
+      "updated_at": "2025-05-12T05:00:27.298263"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "XVS"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XVS",
+        "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+        "decimals": 18
+      },
+      "liquidity": 35.34,
+      "daily_volume": 385.72,
+      "opportunity_score": 2.81,
+      "updated_at": "2025-05-12T05:00:27.298253"
+    },
+    {
+      "pair": [
+        "USDC",
+        "WBNB"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "liquidity": 87.05,
+      "daily_volume": 359.41,
+      "opportunity_score": 2.78,
+      "updated_at": "2025-05-12T05:00:27.298347"
+    },
+    {
+      "pair": [
+        "USDC",
+        "TRX"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "TRX",
+        "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+        "decimals": 18
+      },
+      "liquidity": 4.77,
+      "daily_volume": 387.41,
+      "opportunity_score": 2.73,
+      "updated_at": "2025-05-12T05:00:27.298394"
+    },
+    {
+      "pair": [
+        "ETH",
+        "CAKE"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "CAKE",
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "decimals": 18
+      },
+      "liquidity": 45.49,
+      "daily_volume": 369.29,
+      "opportunity_score": 2.72,
+      "updated_at": "2025-05-12T05:00:27.298495"
+    },
+    {
+      "pair": [
+        "USDT",
+        "CAKE"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "CAKE",
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "decimals": 18
+      },
+      "liquidity": 54.82,
+      "daily_volume": 359.85,
+      "opportunity_score": 2.68,
+      "updated_at": "2025-05-12T05:00:27.298310"
+    },
+    {
+      "pair": [
+        "ETH",
+        "DOT"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DOT",
+        "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+        "decimals": 18
+      },
+      "liquidity": 35.08,
+      "daily_volume": 364.3,
+      "opportunity_score": 2.66,
+      "updated_at": "2025-05-12T05:00:27.298509"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "BTCB"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "liquidity": 56.92,
+      "daily_volume": 352.4,
+      "opportunity_score": 2.64,
+      "updated_at": "2025-05-12T05:00:27.298177"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "BUSD"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "liquidity": 6.86,
+      "daily_volume": 364.41,
+      "opportunity_score": 2.57,
+      "updated_at": "2025-05-12T05:00:27.298413"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "XVS"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XVS",
+        "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+        "decimals": 18
+      },
+      "liquidity": 72.66,
+      "daily_volume": 333.19,
+      "opportunity_score": 2.55,
+      "updated_at": "2025-05-12T05:00:27.298191"
+    },
+    {
+      "pair": [
+        "ETH",
+        "XRP"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XRP",
+        "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+        "decimals": 18
+      },
+      "liquidity": 38.87,
+      "daily_volume": 344.78,
+      "opportunity_score": 2.53,
+      "updated_at": "2025-05-12T05:00:27.298514"
+    },
+    {
+      "pair": [
+        "USDC",
+        "BTCB"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "liquidity": 10.46,
+      "daily_volume": 351.56,
+      "opportunity_score": 2.49,
+      "updated_at": "2025-05-12T05:00:27.298362"
+    },
+    {
+      "pair": [
+        "USDT",
+        "DOT"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DOT",
+        "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+        "decimals": 18
+      },
+      "liquidity": 42.38,
+      "daily_volume": 333.82,
+      "opportunity_score": 2.46,
+      "updated_at": "2025-05-12T05:00:27.298324"
+    },
+    {
+      "pair": [
+        "USDT",
+        "WBNB"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "liquidity": 70.2,
+      "daily_volume": 307.13,
+      "opportunity_score": 2.36,
+      "updated_at": "2025-05-12T05:00:27.298286"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "TRX"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "TRX",
+        "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+        "decimals": 18
+      },
+      "liquidity": 89.58,
+      "daily_volume": 297.86,
+      "opportunity_score": 2.35,
+      "updated_at": "2025-05-12T05:00:27.298457"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "liquidity": 26.91,
+      "daily_volume": 321.37,
+      "opportunity_score": 2.33,
+      "updated_at": "2025-05-12T05:00:27.298230"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "liquidity": 51.56,
+      "daily_volume": 310.46,
+      "opportunity_score": 2.33,
+      "updated_at": "2025-05-12T05:00:27.298423"
+    },
+    {
+      "pair": [
+        "ETH",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "liquidity": 3.93,
+      "daily_volume": 323.45,
+      "opportunity_score": 2.28,
+      "updated_at": "2025-05-12T05:00:27.298485"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "TRX"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "TRX",
+        "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+        "decimals": 18
+      },
+      "liquidity": 28.29,
+      "daily_volume": 312.66,
+      "opportunity_score": 2.27,
+      "updated_at": "2025-05-12T05:00:27.298210"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "ADA"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ADA",
+        "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+        "decimals": 18
+      },
+      "liquidity": 95.67,
+      "daily_volume": 277.67,
+      "opportunity_score": 2.23,
+      "updated_at": "2025-05-12T05:00:27.298196"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "AUTO"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "AUTO",
+        "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+        "decimals": 18
+      },
+      "liquidity": 9.2,
+      "daily_volume": 313.66,
+      "opportunity_score": 2.22,
+      "updated_at": "2025-05-12T05:00:27.298281"
+    },
+    {
+      "pair": [
+        "ETH",
+        "BTCB"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "liquidity": 6.98,
+      "daily_volume": 311.0,
+      "opportunity_score": 2.2,
+      "updated_at": "2025-05-12T05:00:27.298490"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "liquidity": 59.41,
+      "daily_volume": 287.05,
+      "opportunity_score": 2.19,
+      "updated_at": "2025-05-12T05:00:27.298172"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "ETH"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "liquidity": 11.0,
+      "daily_volume": 306.98,
+      "opportunity_score": 2.18,
+      "updated_at": "2025-05-12T05:00:27.298428"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "BAKE"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BAKE",
+        "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+        "decimals": 18
+      },
+      "liquidity": 87.43,
+      "daily_volume": 247.23,
+      "opportunity_score": 1.99,
+      "updated_at": "2025-05-12T05:00:27.298215"
+    },
+    {
+      "pair": [
+        "ETH",
+        "ADA"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ADA",
+        "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+        "decimals": 18
+      },
+      "liquidity": 85.85,
+      "daily_volume": 238.97,
+      "opportunity_score": 1.93,
+      "updated_at": "2025-05-12T05:00:27.298504"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "ETH"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "liquidity": 37.5,
+      "daily_volume": 241.68,
+      "opportunity_score": 1.8,
+      "updated_at": "2025-05-12T05:00:27.298244"
+    },
+    {
+      "pair": [
+        "ETH",
+        "TRX"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "TRX",
+        "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+        "decimals": 18
+      },
+      "liquidity": 22.4,
+      "daily_volume": 248.0,
+      "opportunity_score": 1.8,
+      "updated_at": "2025-05-12T05:00:27.298518"
+    },
+    {
+      "pair": [
+        "ETH",
+        "AUTO"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "AUTO",
+        "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+        "decimals": 18
+      },
+      "liquidity": 82.21,
+      "daily_volume": 219.25,
+      "opportunity_score": 1.78,
+      "updated_at": "2025-05-12T05:00:27.298528"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "liquidity": 29.36,
+      "daily_volume": 238.88,
+      "opportunity_score": 1.76,
+      "updated_at": "2025-05-12T05:00:27.298418"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "WBNB"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "liquidity": 99.81,
+      "daily_volume": 192.44,
+      "opportunity_score": 1.65,
+      "updated_at": "2025-05-12T05:00:27.298225"
+    },
+    {
+      "pair": [
+        "USDT",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "liquidity": 21.11,
+      "daily_volume": 222.92,
+      "opportunity_score": 1.62,
+      "updated_at": "2025-05-12T05:00:27.298296"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "BAKE"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BAKE",
+        "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+        "decimals": 18
+      },
+      "liquidity": 70.27,
+      "daily_volume": 170.67,
+      "opportunity_score": 1.41,
+      "updated_at": "2025-05-12T05:00:27.298461"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "USDC"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "liquidity": 90.7,
+      "daily_volume": 158.79,
+      "opportunity_score": 1.38,
+      "updated_at": "2025-05-12T05:00:27.298234"
+    },
+    {
+      "pair": [
+        "USDC",
+        "XVS"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XVS",
+        "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+        "decimals": 18
+      },
+      "liquidity": 90.38,
+      "daily_volume": 158.62,
+      "opportunity_score": 1.38,
+      "updated_at": "2025-05-12T05:00:27.298376"
+    },
+    {
+      "pair": [
+        "USDT",
+        "ETH"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "liquidity": 51.54,
+      "daily_volume": 165.91,
+      "opportunity_score": 1.32,
+      "updated_at": "2025-05-12T05:00:27.298305"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "ETH"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "liquidity": 99.98,
+      "daily_volume": 142.59,
+      "opportunity_score": 1.3,
+      "updated_at": "2025-05-12T05:00:27.298182"
+    },
+    {
+      "pair": [
+        "USDC",
+        "DOT"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "DOT",
+        "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+        "decimals": 18
+      },
+      "liquidity": 63.65,
+      "daily_volume": 149.2,
+      "opportunity_score": 1.24,
+      "updated_at": "2025-05-12T05:00:27.298385"
+    },
+    {
+      "pair": [
+        "USDC",
+        "AUTO"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "AUTO",
+        "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+        "decimals": 18
+      },
+      "liquidity": 20.3,
+      "daily_volume": 169.08,
+      "opportunity_score": 1.24,
+      "updated_at": "2025-05-12T05:00:27.298404"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "USDT"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "liquidity": 7.13,
+      "daily_volume": 170.2,
+      "opportunity_score": 1.21,
+      "updated_at": "2025-05-12T05:00:27.298167"
+    },
+    {
+      "pair": [
+        "USDC",
+        "XRP"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XRP",
+        "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+        "decimals": 18
+      },
+      "liquidity": 5.06,
+      "daily_volume": 139.17,
+      "opportunity_score": 0.99,
+      "updated_at": "2025-05-12T05:00:27.298390"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "AUTO"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "AUTO",
+        "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+        "decimals": 18
+      },
+      "liquidity": 81.08,
+      "daily_volume": 98.35,
+      "opportunity_score": 0.93,
+      "updated_at": "2025-05-12T05:00:27.298466"
+    },
+    {
+      "pair": [
+        "USDC",
+        "CAKE"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "CAKE",
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "decimals": 18
+      },
+      "liquidity": 93.85,
+      "daily_volume": 89.46,
+      "opportunity_score": 0.91,
+      "updated_at": "2025-05-12T05:00:27.298371"
+    },
+    {
+      "pair": [
+        "ETH",
+        "WBNB"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "liquidity": 42.59,
+      "daily_volume": 99.98,
+      "opportunity_score": 0.83,
+      "updated_at": "2025-05-12T05:00:27.298471"
+    },
+    {
+      "pair": [
+        "USDC",
+        "ETH"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "liquidity": 23.45,
+      "daily_volume": 103.93,
+      "opportunity_score": 0.8,
+      "updated_at": "2025-05-12T05:00:27.298366"
+    },
+    {
+      "pair": [
+        "USDT",
+        "ADA"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ADA",
+        "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+        "decimals": 18
+      },
+      "liquidity": 85.65,
+      "daily_volume": 62.29,
+      "opportunity_score": 0.69,
+      "updated_at": "2025-05-12T05:00:27.298319"
+    },
+    {
+      "pair": [
+        "BUSD",
+        "ADA"
+      ],
+      "token0": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "ADA",
+        "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+        "decimals": 18
+      },
+      "liquidity": 6.17,
+      "daily_volume": 92.63,
+      "opportunity_score": 0.67,
+      "updated_at": "2025-05-12T05:00:27.298258"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "AUTO"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "AUTO",
+        "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+        "decimals": 18
+      },
+      "liquidity": 21.7,
+      "daily_volume": 64.6,
+      "opportunity_score": 0.52,
+      "updated_at": "2025-05-12T05:00:27.298220"
+    },
+    {
+      "pair": [
+        "USDT",
+        "BAKE"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BAKE",
+        "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+        "decimals": 18
+      },
+      "liquidity": 62.75,
+      "daily_volume": 47.03,
+      "opportunity_score": 0.52,
+      "updated_at": "2025-05-12T05:00:27.298338"
+    },
+    {
+      "pair": [
+        "ETH",
+        "BAKE"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BAKE",
+        "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+        "decimals": 18
+      },
+      "liquidity": 8.25,
+      "daily_volume": 71.11,
+      "opportunity_score": 0.52,
+      "updated_at": "2025-05-12T05:00:27.298523"
+    },
+    {
+      "pair": [
+        "USDT",
+        "XVS"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XVS",
+        "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+        "decimals": 18
+      },
+      "liquidity": 80.36,
+      "daily_volume": 38.66,
+      "opportunity_score": 0.51,
+      "updated_at": "2025-05-12T05:00:27.298314"
+    },
+    {
+      "pair": [
+        "USDT",
+        "TRX"
+      ],
+      "token0": {
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "TRX",
+        "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+        "decimals": 18
+      },
+      "liquidity": 74.85,
+      "daily_volume": 32.85,
+      "opportunity_score": 0.45,
+      "updated_at": "2025-05-12T05:00:27.298333"
+    },
+    {
+      "pair": [
+        "BTCB",
+        "XRP"
+      ],
+      "token0": {
+        "symbol": "BTCB",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XRP",
+        "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+        "decimals": 18
+      },
+      "liquidity": 13.1,
+      "daily_volume": 53.75,
+      "opportunity_score": 0.42,
+      "updated_at": "2025-05-12T05:00:27.298452"
+    },
+    {
+      "pair": [
+        "ETH",
+        "BUSD"
+      ],
+      "token0": {
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "decimals": 18
+      },
+      "liquidity": 41.68,
+      "daily_volume": 37.5,
+      "opportunity_score": 0.39,
+      "updated_at": "2025-05-12T05:00:27.298476"
+    },
+    {
+      "pair": [
+        "WBNB",
+        "XRP"
+      ],
+      "token0": {
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "XRP",
+        "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+        "decimals": 18
+      },
+      "liquidity": 97.7,
+      "daily_volume": 0.67,
+      "opportunity_score": 0.3,
+      "updated_at": "2025-05-12T05:00:27.298206"
+    },
+    {
+      "pair": [
+        "USDC",
+        "BAKE"
+      ],
+      "token0": {
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      "token1": {
+        "symbol": "BAKE",
+        "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+        "decimals": 18
+      },
+      "liquidity": 57.06,
+      "daily_volume": 18.03,
+      "opportunity_score": 0.3,
+      "updated_at": "2025-05-12T05:00:27.298399"
+    }
+  ]
+}

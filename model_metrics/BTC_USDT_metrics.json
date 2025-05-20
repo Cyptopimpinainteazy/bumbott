@@ -1,0 +1,50 @@
+{
+  "best_params": {
+    "classifier__subsample": 1.0,
+    "classifier__n_estimators": 200,
+    "classifier__max_depth": 3,
+    "classifier__learning_rate": 0.05
+  },
+  "train_metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": [
+      [
+        301,
+        0
+      ],
+      [
+        0,
+        119
+      ]
+    ]
+  },
+  "test_metrics": {
+    "accuracy": 0.45,
+    "precision": 0.9262152777777778,
+    "recall": 0.45,
+    "f1": 0.6011506556061011,
+    "confusion_matrix": [
+      [
+        1,
+        4
+      ],
+      [
+        95,
+        80
+      ]
+    ]
+  },
+  "feature_importances": {
+    "price_mean": 0.8645059830851359,
+    "price_std": 0.004468960330860511,
+    "price_min": 0.006551201404905803,
+    "price_max": 0.009184791665283762,
+    "volume_mean": 0.017139831027828803,
+    "price_change": 0.07823950115704677,
+    "short_term_trend": 0.019590149627192053,
+    "rsi": 0.00031958170174632656
+  }
+}
